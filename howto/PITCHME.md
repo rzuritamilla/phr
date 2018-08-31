@@ -37,7 +37,7 @@ Note: blabla notes presentor
 ### Left and right content
 @title[side by side]
 <div class="left">
-![](figures/artifacts_2x.png)
+![](howto/figures/artifacts_2x.png)
 </div>
 <div class="right">
     <ul>
