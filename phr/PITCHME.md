@@ -70,7 +70,7 @@ The Cauchy-Schwarz Inequality
 
 This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 
----?image=figures/That_s_all_folks.png&size=cover
+---?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
 <br><br>
 <br><br>
