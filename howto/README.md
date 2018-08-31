@@ -1,1 +1,1 @@
-# testdiapo
+# howto diapo
