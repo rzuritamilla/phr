@@ -5,4 +5,4 @@ slide-number : true
 footnote : "Raul Zurita-Milla 2018"
 mathjax : TeX-MML-AM_HTMLorMML-full
 theme: white
-theme-override : custom.css
+theme-override : howto/custom.css
