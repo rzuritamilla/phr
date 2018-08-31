@@ -6,7 +6,7 @@
 
 
 ---?image=phr/figures/back_to_school.jpeg&size=cover
-@title [intro1]
+@title[intro1]
 
 
 ---
