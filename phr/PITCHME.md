@@ -1,8 +1,8 @@
----?image=howto/figures/PresentationCover.png&size=cover
+---?image=figures_common/PresentationCover.png&size=cover
 @title[cover]
-### @color[white](My first GitPitch presentation)
+### @color[white](GIP research)
 ###### @color[white](R. Zurita-Milla)
-###### @color[white](17 June 2018) 
+###### @color[white](31 August 2018) 
 
 ---
 ### Numbered lists 
