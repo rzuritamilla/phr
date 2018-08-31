@@ -5,7 +5,7 @@
 ###### @color[white](31 August 2018) 
 
 
----?image=figures_common/back_to_school.jpeg&size=cover
+---?image=phr/figures/back_to_school.jpeg&size=cover
 @title [intro1]
 
 
