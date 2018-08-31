@@ -15,11 +15,11 @@
 ### Two images 
 @title[side by side, images]
 @div[left-50]
-![](figures/PresentationCover.png)
+![](howto/figures/PresentationCover.png)
 @divend
 
 @div[right-50]
-![](figures/Presentation1.png)
+![](howto/figures/Presentation1.png)
 @divend
 
 Note: blabla notes presentor
@@ -65,7 +65,7 @@ The Cauchy-Schwarz Inequality
 
 This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 
----?image=figures/That_s_all_folks.png&size=cover
+---?image=howto/figures/That_s_all_folks.png&size=cover
 @title[end]
 <br><br>
 <br><br>
