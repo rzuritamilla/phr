@@ -5,7 +5,7 @@
 ###### @color[white](31 August 2018) 
 
 
----?image=figures/back_to_school.jpeg&size=cover
+---?image=phr/figures/back_to_school.jpeg&size=cover
 @title[intro1]
 
 
@@ -70,7 +70,7 @@ The Cauchy-Schwarz Inequality
 
 This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 
----?image=howto/figures/That_s_all_folks.png&size=cover
+---?image=figures/That_s_all_folks.png&size=cover
 @title[end]
 <br><br>
 <br><br>
