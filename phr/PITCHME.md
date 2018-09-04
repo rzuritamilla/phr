@@ -102,9 +102,9 @@ Note: ask MJ. figure taken from the annual report
 <br><br>
 <br><br>
 <br>
-@color[white](@fa[envelope] r.zurita-milla@utwente.nl)
+@color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
 
-@size[80%](@color[white](@fa[slideshare]bit.ly/2RZMPHR))
+@size[75%](@color[white](@fa[share-square]  bit.ly/2RZMPHR))
 
 
 
