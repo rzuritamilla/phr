@@ -10,21 +10,21 @@
 
 ---
 ### Overview GIP research 
-@title[GIP domains]
+@title[GIP_domains]
 ![](phr/figures/GIP_domains.png)
 
 Note: ask MJ. figure taken from the annual report
 
 ---
 ### Overview GIP PhD students 
-@title[PhD]
+@title[PhD_students]
 ![](phr/figures/GIP_phd_students.png)
 
 Note: ask MJ. figure taken from the annual report
 
 --- 
 ### My role as PHR
-@title[action points]
+@title[PHR]
 @ol
 - Facilitate research work
 - Promote integration of talents 
@@ -33,7 +33,7 @@ Note: ask MJ. figure taken from the annual report
 
 --- 
 ### Facilitate research work
-@title[research FJUT]
+@title[research_FJUT]
 <div class="left">
 ![](phr/figures/talk_to_me.jpg)
 </div>
@@ -45,7 +45,6 @@ Note: ask MJ. figure taken from the annual report
         <li>‎Link to GIP MT and FMT: strategy and research proposals </li>
         <br>
         <li>GIP website: outside (who are we); inside (tips, funny news, discussions) </li>
-        
     </ul>
 </div>
 
@@ -86,23 +85,47 @@ Note: publications, research projects, collaborations, etc
 
 +++
 ### Promote integration of talents 
+@title[Integration_personal]
 A personal story: 
 
-lunch meeting: research problems, ideas, scientific tools and code but also communication packages such as @fa[slack] 
+Lunch meeting: research problems, ideas, scientific tools and code but also communication packages
 
-Proposals:
+Successful visualization group: emails, meetings at the geovislab, etc.
+
+combining Staff, MSc and PhD students. 
+
+Note: mention Slack on tools and the fact that i used as an alternative channel to email during my sabbatical 
+
++++
+### Promote integration of talents 
+@title[Integration_personal#2]
+
+Open proposals:
 @ul
-- Monthly Monday Morning Meeting (aka 4Ms)
-- PURE keywords: living text book of GIP researchers 
+- Monthly Monday Morning Meeting (aka 4Ms), per theme?
+- review our GIP research page and our PURE website 
+- Apply the *living text book* concept to all GIP researchers (or edit PURE keywords)
+- your ideas? 
 @ulend
 
----
-### Move towards ORR
-@fa[github]
-
-re-use workflows and code
-data 
-reproducible science
+--- 
+### Move towards open science 
+@title[OpenScience]
+<div class="left">
+![](phr/figures/OpenScience.jpg)
+</div>
+<div class="right">
+    <ul>
+        <li>Re-use workflows and code</li>
+        <br>
+        <li>‎Curate our data (input and output)</li>
+        <br>
+        <li>Reproducible and well-triangulated science</li>
+        <br>
+        <li> Share experiences and tools: Mendeley groups, @fa[github] </li>
+    </ul>
+</div>
+Note: Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-sharing-is-caring-but-is-privacy-theft-by-david-mehler-and-kevin-weiner/
 
 +++?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
 @ul
@@ -110,20 +133,20 @@ reproducible science
 - @size[70%](DOI:10.1007/978-3-319-00026-8_2)
 @ulend
 
-
 ---
-### A dreamer? 
-@title[ORR]
+### Am I a dreamer? 
+@title[dreamer]
 <div class="left">
 ![](phr/figures/LennonCapture.JPG)
 </div>
 <div class="right">
 <br><br>
+
 <br>
     You might say I'm a dreamer
-<br>    
+<br>
     But I'm not the only one
-<br>    
+<br>
     I hope some day you'll join us
 <br>
     and the world will be as one
@@ -133,7 +156,7 @@ reproducible science
 
 ---
 ### My role as PHR (re-cap)
-@title[lists]
+@title[recap]
 1. Facilitate research work - Research 'FJUT'
 2. Promote integration of talents - Teamwork
 3. Move towards ORR - Task force  
@@ -146,7 +169,4 @@ reproducible science
 <br><br>
 <br>
 @color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
-
 @size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMPHR))
-
-
