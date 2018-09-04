@@ -13,9 +13,9 @@
 @title[GIP_goal]
 
 ```AsciiDoc
-GIP develops methods and techniques to produce actionable geo-information 
+@size[150%](GIP develops methods and techniques to produce actionable geo-information 
 that supports knowledge generation and/or decision-making 
-with a focus on societal problems that deal with changes in space, place, and time.
+with a focus on societal problems that deal with changes in space, place, and time.)
 ```
 
 Note: We work on socially-relevant problems that require the integration of know-how and expertise from multiple domains. These domains include geography, engineering and CS & we focus on methods and techniques for spatio-temporal analysis
