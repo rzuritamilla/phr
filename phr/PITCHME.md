@@ -96,20 +96,10 @@ Proposals:
 - PURE keywords: living text book of GIP researchers 
 @ulend
 
---- 
+---?image=phr/figures/OpenScienceCapture.JPG&position=center&size=cover 
 ### Move towards ORR
-@title[ORR]
-<div class="left">
-![](phr/figures/artifacts_2x.png)
-</div>
-<div class="right">
-    <ul>
-        <li>Security (OWASP and more)</li>
-        <li>‎Portmortems</li>
-        <li>Game Day activities</li>
-        <li>Chaos engineering</li>
-    </ul>
-</div>
+
+DOI: 10.1007/978-3-319-00026-8_2
 +++
 ### Move towards ORR
 @fa[github]
@@ -132,8 +122,7 @@ reproducible science
     But I'm not the only one
 <br>    
     I hope some day you'll join us
-<br><br>
-
+<br>
     and the world will be as one
 <br>
 
