@@ -17,20 +17,12 @@ bla bal bal
 bla bla bal
 ```
 
-+++
-### GIP research goal 
-@title[GIP_goal#2]
-
-In short: 
-We work on socially-relevant problems 
-that require the integration of know-how and expertise from multiple domains
-Focus on the domains of geographical and computer sciences and engineering  
-Focus on methods and techniques for spatio-temporal analysis
+Note: We work on socially-relevant problems that require the integration of know-how and expertise from multiple domains. These domains include geography, engineering and CS & we focus on methods and techniques for spatio-temporal analysis
 
 ---
 ### GIP domains 
 @title[GIP_domains]
-![](phr/figures/GIP_domains.png)
+![](phr/figures/2017-GIP strategy.png)
 
 Note: ask MJ. figure taken from the annual report
 
