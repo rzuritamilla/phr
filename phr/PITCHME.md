@@ -89,9 +89,11 @@ Note: publications, research projects, collaborations, etc
 
 - Analytics group: use lunch meetings to discuss research problems, ideas, scientific tools, code and many other things related to ITC, and our research.
 
+@ul
 - Geovis group: emails, meetings at the geovislab, etc. combinination of staff, MSc and PhD students. 
 
 - GIP research meetings: share ideas to the wider GIP, new style being implemented
+@ulend
 
 Note: mention Slack on tools and the fact that i used as an alternative channel to email during my sabbatical 
 
@@ -143,12 +145,16 @@ Note: Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-
 
 <br>
     You might say I'm a dreamer
+    
 <br>
     But I'm not the only one
+    
 <br>
     I hope some day you'll join us
+    
 <br>
     and the world will be as one
+    
 <br>
 
 </div>
@@ -168,4 +174,5 @@ Note: Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-
 <br><br>
 <br>
 @color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
+
 @size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMPHR))
