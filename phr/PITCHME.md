@@ -9,7 +9,7 @@
 @title[intro]
 
 ---
-### GIP research goal 
+### GIP goal 
 @title[GIP_goal]
 
 ```AsciiDoc
@@ -20,10 +20,9 @@ with a focus on societal problems that deal with changes in space, place, and ti
 
 Note: We work on socially-relevant problems that require the integration of know-how and expertise from multiple domains. These domains include geography, engineering and CS & we focus on methods and techniques for spatio-temporal analysis
 
----
+---?phr/figures/2017_GIP_strategy.png&position=center&size=cover
 ### GIP domains 
 @title[GIP_domains]
-![](phr/figures/2017_GIP_strategy.png)
 
 Note: ask MJ. figure taken from the annual report
 
