@@ -9,7 +9,26 @@
 @title[intro]
 
 ---
-### Overview GIP research 
+### GIP research goal 
+@title[GIP_goal]
+
+```
+bla bal bal
+bla bla bal
+```
+
++++
+### GIP research goal 
+@title[GIP_goal#2]
+
+In short: 
+We work on socially-relevant problems 
+that require the integration of know-how and expertise from multiple domains
+Focus on the domains of geographical and computer sciences and engineering  
+Focus on methods and techniques for spatio-temporal analysis
+
+---
+### GIP domains 
 @title[GIP_domains]
 ![](phr/figures/GIP_domains.png)
 
@@ -106,7 +125,7 @@ Open proposals:
 - Monthly Monday Morning Meeting (aka 4Ms), per theme?
 - Review our GIP research page and our PURE website 
 - Apply the *living text book* concept to all GIP researchers (or edit PURE keywords)
-- your ideas? 
+- Your ideas? 
 @ulend
 
 --- 
