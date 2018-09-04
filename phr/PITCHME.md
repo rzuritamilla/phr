@@ -6,7 +6,7 @@
 
 
 ---?image=phr/figures/back_to_school2.jpeg&position=center&size=cover
-@title[intro1]
+@title[intro]
 
 ---
 ### Overview GIP research 
@@ -31,14 +31,14 @@ Note: ask MJ. figure taken from the annual report
 - Move towards ORR
 @olend
 
-
 --- 
 ### Facilitate research work
 @title[research FJUT]
 <div class="left">
-![](howto/figures/artifacts_2x.png)
+![](phr/figures/talk_to_me.jpg)
 </div>
 <div class="right">
+<br><br>
     <ul>
         <li>Security (OWASP and more)</li>
         <li>‎Portmortems</li>
@@ -49,7 +49,7 @@ Note: ask MJ. figure taken from the annual report
 
 +++ 
 ### Facilitate research work
-
+talk to me 
 
 --- 
 ### Promote integration of talents 
@@ -68,6 +68,14 @@ Note: ask MJ. figure taken from the annual report
 
 +++
 ### Promote integration of talents 
+@fa[slack] 
+@fa[github]
+
+lunch meeting
+Monthly Monday Morning Meeting (aka 4Ms)
+
+PURE keywords
+open book (Rob)
 
 --- 
 ### Move towards ORR
@@ -86,9 +94,14 @@ Note: ask MJ. figure taken from the annual report
 +++
 ### Move towards ORR
 
+re-use workflows and code
+data 
+reproducible science
+
+
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=105%
 
----?image=phr/figures/LennonCapture.JPG&position=center&size=105% 
++++?image=phr/figures/LennonCapture.JPG&position=center&size=105% 
 @color[white](**You might say I'm a dreamer**)
 
 @color[white](**But I'm not the only one**) 
