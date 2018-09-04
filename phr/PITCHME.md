@@ -125,14 +125,15 @@ reproducible science
 ![](phr/figures/LennonCapture.jpg)
 </div>
 <div class="right">
+<br><br>
+<br><br>
     You might say I'm a dreamer
-    
+<br>    
     But I'm not the only one
-    
+<br>    
     I hope some day you'll join us
-    
+<br>
     and the world will be as one
-    
 </div>
 
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=105%
