@@ -96,18 +96,20 @@ Proposals:
 - PURE keywords: living text book of GIP researchers 
 @ulend
 
----?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
-@ul
-<br><br><br><br><br><br><br><br><br><br><br>
-- @size[70%](DOI:10.1007/978-3-319-00026-8_2)
-@ulend
-+++
+
 ### Move towards ORR
 @fa[github]
 
 re-use workflows and code
 data 
 reproducible science
+
++++?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
+@ul
+<br><br><br><br><br><br><br><br><br><br><br>
+- @size[70%](DOI:10.1007/978-3-319-00026-8_2)
+@ulend
+
 
 ---
 ### A dreamer? 
