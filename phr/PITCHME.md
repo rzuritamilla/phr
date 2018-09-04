@@ -70,7 +70,7 @@ Note: publications, research projects, collaborations, etc
 ### Promote integration of talents 
 @title[integration]
 <div class="left">
-![](phr/figures/teamwork.jpg)
+![](phr/figures/teamwork.jpg&size=90%)
 </div>
 <div class="right">
     <ul>
