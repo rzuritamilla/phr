@@ -40,9 +40,9 @@ Note: ask MJ. figure taken from the annual report
 <div class="right">
 <br><br>
     <ul>
-        <li>Central point </li>
-        <li>‎Link to GIP MT and FMT </li>
-        <li>GIP website </li>
+        <li>Central point: Staff, PhD and MSc research </li>
+        <li>‎Link to GIP MT and FMT: strategy and research proposals </li>
+        <li>GIP website: outside (who are we); inside (tips, funny news, discussions) </li>
         
     </ul>
 </div>
