@@ -70,27 +70,31 @@ Note: publications, research projects, collaborations, etc
 ### Promote integration of talents 
 @title[integration]
 <div class="left">
-![](phr/figures/teamwork.jpg&size=90%)
+![](phr/figures/teamwork.jpg)
 </div>
 <div class="right">
     <ul>
-        <li>Security (OWASP and more)</li>
-        <li>‎Portmortems</li>
-        <li>Game Day activities</li>
-        <li>Chaos engineering</li>
+        <li>Heterogeneous group: resilience :-) </li>
+        <br>
+        <li>‎Complex & wicked problems: expertise and know-how from various disciplines</li>
+        <br>
+        <li>Herding cats</li>
+        <br>
+        <li>Deeper integration: leading to more internal collaborations and a stronger research focus</li>
     </ul>
 </div>
 
 +++
 ### Promote integration of talents 
-@fa[slack] 
-@fa[github]
+A personal story: 
 
-lunch meeting
-Monthly Monday Morning Meeting (aka 4Ms)
+lunch meeting: research problems, ideas, scientific tools and code but also communication packages such as @fa[slack] 
 
-PURE keywords
-open book (Rob)
+Proposals:
+@ul
+- Monthly Monday Morning Meeting (aka 4Ms)
+- PURE keywords: living text book of GIP researchers 
+@ulend
 
 --- 
 ### Move towards ORR
@@ -108,6 +112,7 @@ open book (Rob)
 </div>
 +++
 ### Move towards ORR
+@fa[github]
 
 re-use workflows and code
 data 
