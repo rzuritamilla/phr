@@ -11,14 +11,14 @@
 ---
 ### Overview GIP research 
 @title[GIP domains]
-![](howto/figures/artifacts_2x.png)
+![](phr/figures/GIP_domains.png)
 
 Note: ask MJ. figure taken from the annual report
 
 ---
 ### Overview GIP PhD students 
 @title[PhD]
-![](howto/figures/artifacts_2x.png)
+![](phr/figures/GIP_phd_students.png)
 
 Note: ask MJ. figure taken from the annual report
 
@@ -70,7 +70,7 @@ Note: publications, research projects, collaborations, etc
 ### Promote integration of talents 
 @title[integration]
 <div class="left">
-![](howto/figures/artifacts_2x.png)
+![](phr/figures/teamwork.jpg)
 </div>
 <div class="right">
     <ul>
@@ -96,7 +96,7 @@ open book (Rob)
 ### Move towards ORR
 @title[ORR]
 <div class="left">
-![](howto/figures/artifacts_2x.png)
+![](phr/figures/artifacts_2x.png)
 </div>
 <div class="right">
     <ul>
