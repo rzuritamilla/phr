@@ -112,7 +112,7 @@ Open proposals:
 ### Move towards open science 
 @title[OpenScience]
 <div class="left">
-![](phr/figures/OpenScience.jpg)
+![](phr/figures/OpenScience.png)
 </div>
 <div class="right">
     <ul>
