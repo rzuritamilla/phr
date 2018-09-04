@@ -40,24 +40,30 @@ Note: ask MJ. figure taken from the annual report
 <div class="right">
 <br><br>
     <ul>
-        <li>Security (OWASP and more)</li>
-        <li>‎Portmortems</li>
-        <li>Game Day activities</li>
-        <li>Chaos engineering</li>
+        <li>Central point </li>
+        <li>‎Link to GIP MT and FMT </li>
+        <li>GIP website </li>
+        
     </ul>
 </div>
 
+Note: Corné (MSc research), Valia (GIP research meetings)
+MT: strategic decisions and FMT for NWO proposals, for instance
+use of website to share tips, funny news and articles that can help you with your research
+
 +++ 
 ### Facilitate research work
-Research 'FJUT'
-Failing to plan is planning to fail
+
+*Failing to plan is planning to fail*
 
 @ul
-- What are your short term plans?
+- What are your short-term plans?
 - Is there anything preventing you from realizing those plans?
 - Do you have suggestions or ideas to improve (y)our research activity?
 @ulend
  
+Note: publications, research projects, collaborations, etc
+
 --- 
 ### Promote integration of talents 
 @title[integration]
