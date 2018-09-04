@@ -20,18 +20,11 @@ with a focus on societal problems that deal with changes in space, place, and ti
 
 Note: We work on socially-relevant problems that require the integration of know-how and expertise from multiple domains. These domains include geography, engineering and CS & we focus on methods and techniques for spatio-temporal analysis
 
----?phr/figures/2017_GIP_strategy.png&position=center&size=cover
+---?image=phr/figures/2017_GIP_strategy.png&position=center
 ### GIP domains 
 @title[GIP_domains]
 
-Note: ask MJ. figure taken from the annual report
-
----
-### Overview GIP PhD students 
-@title[PhD_students]
-![](phr/figures/GIP_phd_students.png)
-
-Note: ask MJ. figure taken from the annual report
+Note: figure taken from the annual report
 
 --- 
 ### My role as PHR
