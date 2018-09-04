@@ -79,12 +79,13 @@ Note: ask MJ. figure taken from the annual report
 </div>
 
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=100% 
-@ul
-@color[white](You might say I'm a dreamer) 
-@color[white](but I'm not the only one ...) 
-@ulend
+@color[white](You might say I'm a dreamer)
+ 
+@color[white](But I'm not the only one ...) 
 
+@color[white](I hope some day you'll join us) 
 
+@color[white](And the world will be as one) 
 
 ---
 ### Numbered lists 
