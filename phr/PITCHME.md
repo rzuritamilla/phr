@@ -49,7 +49,7 @@ Note: figure taken from the annual report
         <br>
         <li>‎Link to GIP MT and FMT: strategy and research proposals </li>
         <br>
-        <li>GIP website: outside (who are we); inside (tips, funny news, discussions) </li>
+        <li>Support everyone to do their best: GIP website, sounding board </li>
     </ul>
 </div>
 
@@ -148,19 +148,13 @@ Note: Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-
 <div class="right">
 <br><br>
 
-<br>
-    You might say I'm a dreamer
+You might say I'm a dreamer
+
+But I'm not the only one
     
-<br>
-    But I'm not the only one
+I hope some day you'll join us
     
-<br>
-    I hope some day you'll join us
-    
-<br>
-    and the world will be as one
-    
-<br>
+and the world will be as one
 
 </div>
 
