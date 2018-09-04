@@ -98,7 +98,7 @@ Proposals:
 
 ---?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
 @ul
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 - DOI: 10.1007/978-3-319-00026-8_2
 @ulend
 +++
