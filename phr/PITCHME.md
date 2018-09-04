@@ -118,6 +118,21 @@ re-use workflows and code
 data 
 reproducible science
 
+### A dreamer? 
+@title[ORR]
+<div class="left">
+![](phr/figures/LennonCapture.jpg)
+</div>
+<div class="right">
+    You might say I'm a dreamer
+    
+    But I'm not the only one
+    
+    I hope some day you'll join us
+    
+    and the world will be as one
+    
+</div>
 
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=105%
 
