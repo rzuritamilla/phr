@@ -32,9 +32,10 @@ Note: ask MJ. figure taken from the annual report
 
 @olend
 
+
 --- 
-### Left and right content
-@title[side by side]
+### Facilitate research work
+@title[research FJUT]
 <div class="left">
 ![](howto/figures/artifacts_2x.png)
 </div>
@@ -46,6 +47,44 @@ Note: ask MJ. figure taken from the annual report
         <li>Chaos engineering</li>
     </ul>
 </div>
+
+--- 
+### Promote integration of talents 
+@title[integration]
+<div class="left">
+![](howto/figures/artifacts_2x.png)
+</div>
+<div class="right">
+    <ul>
+        <li>Security (OWASP and more)</li>
+        <li>‎Portmortems</li>
+        <li>Game Day activities</li>
+        <li>Chaos engineering</li>
+    </ul>
+</div>
+
+--- 
+### Move towards ORR
+@title[ORR]
+<div class="left">
+![](howto/figures/artifacts_2x.png)
+</div>
+<div class="right">
+    <ul>
+        <li>Security (OWASP and more)</li>
+        <li>‎Portmortems</li>
+        <li>Game Day activities</li>
+        <li>Chaos engineering</li>
+    </ul>
+</div>
+
+---?image=phr/figures/LennonCapture.JPG&position=center&size=110% 
+@ul
+- you might say I'm a dreamer 
+- but I'm not the only one
+@ulend
+
+
 
 ---
 ### Numbered lists 
