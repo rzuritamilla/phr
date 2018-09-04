@@ -47,6 +47,10 @@ Note: ask MJ. figure taken from the annual report
     </ul>
 </div>
 
++++ 
+### Facilitate research work
+
+
 --- 
 ### Promote integration of talents 
 @title[integration]
@@ -62,6 +66,9 @@ Note: ask MJ. figure taken from the annual report
     </ul>
 </div>
 
++++
+### Promote integration of talents 
+
 --- 
 ### Move towards ORR
 @title[ORR]
@@ -76,6 +83,8 @@ Note: ask MJ. figure taken from the annual report
         <li>Chaos engineering</li>
     </ul>
 </div>
++++
+### Move towards ORR
 
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=105%
 
@@ -89,11 +98,11 @@ Note: ask MJ. figure taken from the annual report
 @color[white](**And the world will be as one**) 
 
 ---
-### My role as PHR [re-cap]
+### My role as PHR (re-cap)
 @title[lists]
 1. Facilitate research work - Research 'FJUT'
 2. Promote integration of talents - Teamwork
-3. Move towards ORR - task force / pilot case 
+3. Move towards ORR - Task force  
 
 ---?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
@@ -105,9 +114,5 @@ Note: ask MJ. figure taken from the annual report
 @color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
 
 @size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMPHR))
-
-
-
-
 
 
