@@ -86,13 +86,12 @@ Note: publications, research projects, collaborations, etc
 +++
 ### Promote integration of talents 
 @title[Integration_personal]
-A personal story: 
 
-Lunch meeting: research problems, ideas, scientific tools and code but also communication packages
+- Analytics group: use lunch meetings to discuss research problems, ideas, scientific tools, code and many other things related to ITC, and our research.
 
-Successful visualization group: emails, meetings at the geovislab, etc.
+- Geovis group: emails, meetings at the geovislab, etc. combinination of staff, MSc and PhD students. 
 
-combining Staff, MSc and PhD students. 
+- GIP research meetings: share ideas to the wider GIP, new style being implemented
 
 Note: mention Slack on tools and the fact that i used as an alternative channel to email during my sabbatical 
 
@@ -103,7 +102,7 @@ Note: mention Slack on tools and the fact that i used as an alternative channel 
 Open proposals:
 @ul
 - Monthly Monday Morning Meeting (aka 4Ms), per theme?
-- review our GIP research page and our PURE website 
+- Review our GIP research page and our PURE website 
 - Apply the *living text book* concept to all GIP researchers (or edit PURE keywords)
 - your ideas? 
 @ulend
