@@ -7,17 +7,16 @@
 
 ---?image=phr/figures/back_to_school2.jpeg&position=center&size=cover
 @title[intro]
+@size[150%](Welcome back!)
 
 ---
 ### GIP research goal 
 @title[GIP_goal]
 
-```github
+```AsciiDoc
 GIP develops methods and techniques to produce actionable geo-information that
  supports knowledge generation and/or decision-making 
- with a focus on societal problems that
- deal with changes in, space, place, and time.
-
+ with a focus on societal problems that deal with changes in space, place, and time.
 ```
 
 Note: We work on socially-relevant problems that require the integration of know-how and expertise from multiple domains. These domains include geography, engineering and CS & we focus on methods and techniques for spatio-temporal analysis
