@@ -122,7 +122,7 @@ reproducible science
 ### A dreamer? 
 @title[ORR]
 <div class="left">
-![](phr/figures/LennonCapture.jpg)
+![](phr/figures/LennonCapture.JPG)
 </div>
 <div class="right">
 <br><br>
@@ -134,6 +134,8 @@ reproducible science
     I hope some day you'll join us
 <br>
     and the world will be as one
+<br>
+
 </div>
 
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=105%
