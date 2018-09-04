@@ -78,10 +78,10 @@ Note: ask MJ. figure taken from the annual report
     </ul>
 </div>
 
----?image=phr/figures/LennonCapture.JPG&position=center&size=110% 
+---?image=phr/figures/LennonCapture.JPG&position=center&size=100% 
 @ul
-- you might say I'm a dreamer 
-- but I'm not the only one
+@color[white](You might say I'm a dreamer) 
+@color[white](but I'm not the only one ...) 
 @ulend
 
 
