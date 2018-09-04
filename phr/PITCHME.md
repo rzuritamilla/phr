@@ -93,9 +93,9 @@ Note: publications, research projects, collaborations, etc
 @title[Integration_personal]
 
 - Analytics group: use lunch meetings to discuss research problems, ideas, scientific tools, code and many other things related to ITC, and our research.
-
+<br>
 @ul
-- Geovis group: emails, meetings at the geovislab, etc. combinination of staff, MSc and PhD students. 
+- Geovis group: emails, meetings at the geovislab, etc. combinination of staff, MSc and PhD students. <br>
 
 - GIP research meetings: share ideas to the wider GIP, new style being implemented
 @ulend
@@ -148,13 +148,13 @@ Note: Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-
 <div class="right">
 <br><br>
 
-You might say I'm a dreamer
+You might say I'm a dreamer<br>
 
-But I'm not the only one
+But I'm not the only one<br>
     
-I hope some day you'll join us
+I hope some day you'll join us<br>
     
-and the world will be as one
+and the world will be as one<br>
 
 </div>
 
