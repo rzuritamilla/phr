@@ -78,7 +78,7 @@ Note: ask MJ. figure taken from the annual report
     </ul>
 </div>
 
----?image=phr/figures/LennonCapture.JPG&position=center&size=100% 
+---?image=phr/figures/LennonCapture.JPG&position=center&size=80% 
 @color[white](You might say I'm a dreamer)
  
 @color[white](But I'm not the only one ...) 
