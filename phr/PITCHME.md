@@ -41,7 +41,9 @@ Note: ask MJ. figure taken from the annual report
 <br><br>
     <ul>
         <li>Central point: Staff, PhD and MSc research </li>
+        <br>
         <li>‎Link to GIP MT and FMT: strategy and research proposals </li>
+        <br>
         <li>GIP website: outside (who are we); inside (tips, funny news, discussions) </li>
         
     </ul>
