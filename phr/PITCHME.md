@@ -97,9 +97,11 @@ Proposals:
 @ulend
 
 ---?image=phr/figures/OpenScienceCapture.JPG&position=center&size=90% 
-### Move towards ORR
+@ul
+<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 DOI: 10.1007/978-3-319-00026-8_2
+@ulend
 +++
 ### Move towards ORR
 @fa[github]
