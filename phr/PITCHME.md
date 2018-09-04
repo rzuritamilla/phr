@@ -12,7 +12,7 @@
 ### GIP research goal 
 @title[GIP_goal]
 
-```
+```github
 GIP develops methods and techniques to produce actionable geo-information that
  supports knowledge generation and/or decision-making 
  with a focus on societal problems that
@@ -42,7 +42,7 @@ Note: ask MJ. figure taken from the annual report
 @ol
 - Facilitate research work
 - Promote integration of talents 
-- Move towards ORR
+- Move towards open science
 @olend
 
 --- 
