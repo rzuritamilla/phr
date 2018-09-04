@@ -92,12 +92,12 @@ Note: publications, research projects, collaborations, etc
 ### Promote integration of talents 
 @title[Integration_personal]
 
-- Analytics group: discuss research problems, ideas, scientific tools, code, etc. 
+- *Analytics group*: discuss research problems, ideas, scientific tools, code, etc. 
 
 @ul
-- Geovis group: emails, meetings at the geovislab, combinination of staff, MSc and PhD students, etc.
+- *Geovis group*: emails, meetings at the geovislab, combinination of staff, MSc and PhD students, etc.
 
-- GIP research meetings: share ideas with full dept.
+- *GIP research meetings*: share ideas with full dept.
 
 @ulend
 
