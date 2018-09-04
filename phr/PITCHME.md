@@ -80,14 +80,14 @@ Note: ask MJ. figure taken from the annual report
 
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=105%
 
----?image=phr/figures/LennonCapture.JPG&position=center&size=105% 
+---?image=phr/figures/LennonCapture.JPG&position=center&size=105%&opacity=50 
 @color[white](**You might say I'm a dreamer**)
 
-@color[white](But I'm not the only one ...) 
+@color[white](**But I'm not the only one**) 
 
-@color[white](I hope some day you'll join us) 
+@color[white](**I hope some day you'll join us**) 
 
-@color[white](And the world will be as one) 
+@color[white](**And the world will be as one**) 
 
 ---
 ### Numbered lists 
