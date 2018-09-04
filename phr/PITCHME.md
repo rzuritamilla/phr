@@ -92,13 +92,13 @@ Note: publications, research projects, collaborations, etc
 ### Promote integration of talents 
 @title[Integration_personal]
 
-- Analytics group: use lunch meetings to discuss research problems, ideas, scientific tools, code and many other things related to ITC, and our research.<br>
+- Analytics group: discuss research problems, ideas, scientific tools, code, etc. 
 
 @ul
-- Geovis group: emails, meetings at the geovislab, etc. combinination of staff, MSc and PhD students. <br>
+- Geovis group: emails, meetings at the geovislab, combinination of staff, MSc and PhD students, etc.
 
-- GIP research meetings: share ideas to the wider GIP, new style being implemented <br>
-- 
+- GIP research meetings: share ideas with full dept.
+
 @ulend
 
 Note: mention Slack on tools and the fact that i used as an alternative channel to email during my sabbatical 
