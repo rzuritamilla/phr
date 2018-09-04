@@ -2,12 +2,47 @@
 @title[cover]
 ### @color[white](GIP research)
 ###### @color[white](R. Zurita-Milla)
-###### @color[white](31 August 2018) 
+###### @color[white](6 September 2018) 
 
 
 ---?image=phr/figures/back_to_school2.jpeg&position=center&size=cover
 @title[intro1]
 
+---
+### Overview GIP research 
+@title[GIP domains]
+![](howto/figures/artifacts_2x.png)
+
+Note: ask MJ. figure taken from the annual report
+
+---
+### Overview GIP PhD students 
+@title[PhD]
+![](howto/figures/artifacts_2x.png)
+
+Note: ask MJ. figure taken from the annual report
+
+--- 
+### My role as PHR
+@title[action points]
+1. Facilitate research work
+2. Promote integration of talents 
+3. Move towards ORR
+
+--- 
+### Left and right content
+@title[side by side]
+<div class="left">
+![](howto/figures/artifacts_2x.png)
+</div>
+<div class="right">
+    <ul>
+        <li>Security (OWASP and more)</li>
+        <li>‎Portmortems</li>
+        <li>Game Day activities</li>
+        <li>Chaos engineering</li>
+    </ul>
+</div>
 
 ---
 ### Numbered lists 
@@ -77,6 +112,9 @@ This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 <br><br>
 <br><br>
 @color[white](@fa[envelope] r.zurita-milla@utwente.nl)
+<br><br>
+@color[white](want these slides? bit.ly/2RZMPHR)
+
 
 
 
