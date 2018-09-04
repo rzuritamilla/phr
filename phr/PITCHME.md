@@ -96,9 +96,8 @@ Proposals:
 - PURE keywords: living text book of GIP researchers 
 @ulend
 
----?image=phr/figures/OpenScienceCapture.JPG&position=center&size=90% 
+---?image=phr/figures/OpenScienceCapture.JPG&position=center&size=70% 
 @ul
-<br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 DOI: 10.1007/978-3-319-00026-8_2
 @ulend
