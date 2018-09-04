@@ -112,8 +112,7 @@ This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 <br><br>
 <br><br>
 @color[white](@fa[envelope] r.zurita-milla@utwente.nl)
-<br><br>
-@color[white](want these slides? bit.ly/2RZMPHR)
+@color[white](bit.ly/2RZMPHR)
 
 
 
