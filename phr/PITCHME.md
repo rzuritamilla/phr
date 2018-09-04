@@ -25,9 +25,11 @@ Note: ask MJ. figure taken from the annual report
 --- 
 ### My role as PHR
 @title[action points]
+@ul
 1. Facilitate research work
 2. Promote integration of talents 
 3. Move towards ORR
+@ulend
 
 --- 
 ### Left and right content
@@ -87,23 +89,6 @@ Note: blabla notes presentor
         <li>Chaos engineering</li>
     </ul>
 </div>
-
----
-@title[math]
-##### A bit of maths 
-
-The Cauchy-Schwarz Inequality
-
-`\[
-\left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
- \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-\]`
-
-+++
-@title[Inline maths2]
-##### In-line maths
-
-This expression `\(\sqrt{3x-1}+(1+x)^2\)` is an example of an inline equation.
 
 ---?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
