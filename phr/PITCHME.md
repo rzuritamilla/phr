@@ -126,28 +126,18 @@ reproducible science
 </div>
 <div class="right">
 <br><br>
-<br><br>
+<br>
     You might say I'm a dreamer
 <br>    
     But I'm not the only one
 <br>    
     I hope some day you'll join us
+    
 <br>
     and the world will be as one
 <br>
 
 </div>
-
----?image=phr/figures/LennonCapture.JPG&position=center&size=105%
-
-+++?image=phr/figures/LennonCapture.JPG&position=center&size=105% 
-@color[white](**You might say I'm a dreamer**)
-
-@color[white](**But I'm not the only one**) 
-
-@color[white](**I hope some day you'll join us**) 
-
-@color[white](**And the world will be as one**) 
 
 ---
 ### My role as PHR (re-cap)
