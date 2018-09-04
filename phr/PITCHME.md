@@ -49,8 +49,15 @@ Note: ask MJ. figure taken from the annual report
 
 +++ 
 ### Facilitate research work
-talk to me 
+Research 'FJUT'
+Failing to plan is planning to fail
 
+@ul
+- What are your short term plans?
+- Is there anything preventing you from realizing those plans?
+- Do you have suggestions or ideas to improve (y)our research activity?
+@ulend
+ 
 --- 
 ### Promote integration of talents 
 @title[integration]
