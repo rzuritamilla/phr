@@ -89,11 +89,11 @@ Note: ask MJ. figure taken from the annual report
 @color[white](**And the world will be as one**) 
 
 ---
-### My role as PHR
+### My role as PHR [re-cap]
 @title[lists]
-1. Facilitate research work
-2. Promote integration of talents 
-3. Move towards ORR
+1. Facilitate research work - Research 'FJUT'
+2. Promote integration of talents - Teamwork
+3. Move towards ORR - task force / pilot case 
 
 ---?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
