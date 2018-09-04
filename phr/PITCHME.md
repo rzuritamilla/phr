@@ -25,11 +25,12 @@ Note: ask MJ. figure taken from the annual report
 --- 
 ### My role as PHR
 @title[action points]
-@ul
-1. Facilitate research work
-2. Promote integration of talents 
-3. Move towards ORR
-@ulend
+@ol
+- Facilitate research work
+- Promote integration of talents 
+- Move towards ORR
+
+@olend
 
 --- 
 ### Left and right content
