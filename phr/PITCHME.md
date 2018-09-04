@@ -29,7 +29,6 @@ Note: ask MJ. figure taken from the annual report
 - Facilitate research work
 - Promote integration of talents 
 - Move towards ORR
-
 @olend
 
 
@@ -80,7 +79,7 @@ Note: ask MJ. figure taken from the annual report
 
 ---?image=phr/figures/LennonCapture.JPG&position=center&size=105%
 
----?image=phr/figures/LennonCapture.JPG&position=center&opacity=50&size=105% 
+---?image=phr/figures/LennonCapture.JPG&position=center&size=105% 
 @color[white](**You might say I'm a dreamer**)
 
 @color[white](**But I'm not the only one**) 
@@ -90,48 +89,11 @@ Note: ask MJ. figure taken from the annual report
 @color[white](**And the world will be as one**) 
 
 ---
-### Numbered lists 
+### My role as PHR
 @title[lists]
-1. element 1
-2. element 2
-3. element 3
-
----
-### Two images 
-@title[side by side, images]
-@div[left-50]
-![](howto/figures/PresentationCover.png)
-@divend
-
-@div[right-50]
-![](howto/figures/Presentation1.png)
-@divend
-
-Note: blabla notes presentor
-
----
-### Fragments 
-@title[framents]
-
-@ul
-- This is my first line
-- this is my second line
-@ulend
-
----
-### Left and right content
-@title[side by side]
-<div class="left">
-![](howto/figures/artifacts_2x.png)
-</div>
-<div class="right">
-    <ul>
-        <li>Security (OWASP and more)</li>
-        <li>‎Portmortems</li>
-        <li>Game Day activities</li>
-        <li>Chaos engineering</li>
-    </ul>
-</div>
+1. Facilitate research work
+2. Promote integration of talents 
+3. Move towards ORR
 
 ---?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
@@ -142,7 +104,7 @@ Note: blabla notes presentor
 <br>
 @color[white](@fa[envelope] r.zurita-milla@utwente.nl)
 
-@color[white](bit.ly/2RZMPHR)
+@size[3]()@color[white](bit.ly/2RZMPHR))
 
 
 
