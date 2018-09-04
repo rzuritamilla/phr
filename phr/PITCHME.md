@@ -132,8 +132,8 @@ reproducible science
     But I'm not the only one
 <br>    
     I hope some day you'll join us
-    
-<br>
+<br><br>
+
     and the world will be as one
 <br>
 
