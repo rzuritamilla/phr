@@ -23,7 +23,7 @@ Note: We work on socially-relevant problems that require the integration of know
 ---
 ### GIP domains 
 @title[GIP_domains]
-![GIP](phr/figures/2017_GIP_strategy.png)
+![GIP](phr/figures/GIP_new.png)
 
 Note: figure taken from the annual report
 
