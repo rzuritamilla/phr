@@ -89,26 +89,6 @@ Note: publications, research projects, collaborations, etc
     </ul>
 </div>
 
-
---- 
-### Promote integration of talents 
-@title[integration]
-<div class="left">
-<img src="phr/figures/teamwork.jpg" style="height:5%"> 
-
-</div>
-<div class="right">
-    <ul>
-        <li>Heterogeneous group: resilience :-) </li>
-        <br>
-        <li>‎Complex & wicked problems: expertise and know-how from various disciplines</li>
-        <br>
-        <li>Herding cats</li>
-        <br>
-        <li>Deeper integration: leading to more internal collaborations and a stronger research focus</li>
-    </ul>
-</div>
-
 +++
 ### Promote integration of talents 
 @title[Integration_personal]
