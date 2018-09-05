@@ -12,6 +12,14 @@
 ### GIP goal 
 @title[GIP_goal]
 
+> GIP develops methods and techniques to produce actionable geo-information 
+> that supports knowledge generation and/or decision-making 
+> with a focus on societal problems that deal with changes in space, place, and time.
+
+---
+### GIP goal 
+@title[GIP_goal]
+
 ```AsciiDoc
 GIP develops methods and techniques to produce actionable geo-information 
 that supports knowledge generation and/or decision-making 
