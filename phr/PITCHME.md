@@ -94,7 +94,7 @@ Note: publications, research projects, collaborations, etc
 ### Promote integration of talents 
 @title[integration]
 <div class="left">
-<img src= "phr/figures/teamwork.jpg" style="height:75vh"> 
+<img src="phr/figures/teamwork.jpg" style="height:75vh"> 
 
 </div>
 <div class="right">
