@@ -149,8 +149,9 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 ### Move towards open science 
 
 > Not every end is a goal <br>
-> the end of a melody is not a goal <br>
-> <cite> -- F. Nietzche </cite>
+> The end of a melody is not a goal <br>
+
+<cite> F. Nietzsche </cite>
 
 Note: Just think for a second. what can i do today to make my science more open? 
 
