@@ -47,7 +47,6 @@ Note: as PHR, I would like to focus on 1, 2 and 3, and in the coming slides i br
 ![](phr/figures/talk_to_me.jpg)
 </div>
 <div class="right">
-<br><br>
     <ul>
         <li>Central point: Staff, PhD and MSc research </li>
         <br>
