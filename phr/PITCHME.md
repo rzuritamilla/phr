@@ -150,11 +150,9 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 
 > Not every end is a goal <br>
 > The end of a melody is not a goal <br>
-> @size[70%](			F. Nietzsche)
+> @size[70%](F. Nietzsche)
 
-
-
-Note: Just think for a second. what can i do today to make my science more open? 
+Note: Just think for a second. what can you do today to make your science more open? 
 
 +++?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
 @ul
