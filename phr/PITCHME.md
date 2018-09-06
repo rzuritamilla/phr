@@ -68,9 +68,9 @@ use of website to share tips, funny news and articles that can help you with you
 *Failing to plan is planning to fail*
 
 @ul
-- What are your short-term plans? (publications, projects)
-- Is there anything preventing you from realizing those plans? (time, staff development)
-- Do you have suggestions or ideas to improve (y)our research activity? (anything :-)
+- What are your short-term plans? @size[75%]((publications, projects,...))
+- Is there anything preventing you from realizing those plans? @size[75%]((time, staff development,...))
+- Do you have suggestions or ideas to improve (y)our research activity? @size[75%]((anything :-))
 @ulend
  
 Note: publications, research projects, collaborations, etc.
