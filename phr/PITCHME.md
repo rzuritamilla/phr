@@ -144,6 +144,7 @@ Note: these meetings are probably not enough. they are short. Hence I propose ha
     </ul>
 </div>
 Note: we have a GIP code repository. let's use it. we have interesting datasets. lets's share them. Many of us have interest in reproducible science. Let's do it and let's start today. Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-sharing-is-caring-but-is-privacy-theft-by-david-mehler-and-kevin-weiner/
+
 +++
 ### Move towards open science 
 
@@ -151,7 +152,9 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 > the end of a melody is not a goal
 > -- F. Nietzche
 
-Note: Just think for a second. what can i do today to make my science more open? +++?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
+Note: Just think for a second. what can i do today to make my science more open? 
+
++++?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
 @ul
 <br><br><br><br><br><br><br><br><br><br><br>
 - @size[65%](DOI:10.1007/978-3-319-00026-8_2)
