@@ -54,7 +54,7 @@ Note: as PHR, I would like to focus on 1, 2 and 3, and in the coming slides i br
         <br>
         <li>Support everyone to do their best: GIP website, sounding board </li>
         <br>
-        <li>Connect with problem owners: meet their needs, co-create knoledge </li>
+        <li>Connect with problem owners: meet their needs, co-create knowledge </li>
     </ul>
 </div>
 
