@@ -150,7 +150,8 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 
 > Not every end is a goal <br>
 > The end of a melody is not a goal <br>
-> <span style="padding-left:20px">      F. Nietzsche </span>
+> 			@size[70%](F. Nietzsche)
+
 
 
 Note: Just think for a second. what can i do today to make my science more open? 
