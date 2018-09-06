@@ -54,6 +54,8 @@ Note: as PHR, I would like to focus on 1, 2 and 3, and in the coming slides i br
         <li>‎Link to GIP MT and FMT: strategy and research proposals </li>
         <br>
         <li>Support everyone to do their best: GIP website, sounding board </li>
+        <br>
+        <li>Connect with problem owners: meet their needs, co-create knoledge </li>
     </ul>
 </div>
 
@@ -67,9 +69,9 @@ use of website to share tips, funny news and articles that can help you with you
 *Failing to plan is planning to fail*
 
 @ul
-- What are your short-term plans?
-- Is there anything preventing you from realizing those plans?
-- Do you have suggestions or ideas to improve (y)our research activity?
+- What are your short-term plans? (publications, projects)
+- Is there anything preventing you from realizing those plans? (time, staff development)
+- Do you have suggestions or ideas to improve (y)our research activity? (anything :-)
 @ulend
  
 Note: publications, research projects, collaborations, etc.
