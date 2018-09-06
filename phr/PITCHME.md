@@ -147,7 +147,7 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 
 +++
 ### Move towards open science 
-
+@title[goal_today]
 > Not every end is a goal <br>
 > The end of a melody is not a goal <br>
 > @size[70%](F. Nietzsche)
@@ -155,6 +155,7 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 Note: Just think for a second. what can you do today to make your science more open? 
 
 +++?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
+@title[OpenScience schools]
 @ul
 <br><br><br><br><br><br><br><br><br><br><br>
 - @size[65%](DOI:10.1007/978-3-319-00026-8_2)
