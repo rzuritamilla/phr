@@ -148,7 +148,7 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 +++
 ### Move towards open science 
 
-> Not every end is a goal
+> Not every end is a goal <br>
 > the end of a melody is not a goal
 > -- F. Nietzche
 
