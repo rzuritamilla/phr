@@ -9,7 +9,7 @@
 Note: With Valia we just looked back at our research meetings. In this short presentation I will look at the broader scientific community and the tensions that seem to be bubbling across the world.
 
 
----?image=figures/d41586-018-05143-8_15764610.jpg&position=center&size=cover
+---?image=lab_gap/figures/d41586-018-05143-8_15764610.jpg&position=center&size=cover
 @title[intro]
 
 Note: Researchers are typically good observers, but many seem to have trouble spotting the problems right under their noses. Those who run labs have a much rosier picture of the dynamics in their research groups than the one perceived by the working floor.
