@@ -18,10 +18,10 @@ Note: Researchers are typically good observers, but many seem to have trouble sp
 ---?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=87% 
 @title[Perception_gap]
 
-+++?image=lab_gap/figures/perils_perception.PNG
++++?image=lab_gap/figures/perils_perception.PNG&position=center&size=cover 
 @title[perils]
 
-+++?image=lab_gap/figures/hot_years.PNG
++++?image=lab_gap/figures/hot_years.PNG&position=center&size=cover
 @title[joke_ES_NL]
 
 ---?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=80% 
