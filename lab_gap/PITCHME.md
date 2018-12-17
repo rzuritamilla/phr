@@ -23,11 +23,9 @@ Note: Researchers are typically good observers, but many seem to have trouble sp
 
 ---
 ### Perception gap at GIP?
-Do we need to worry?
-
 ![](lab_gap/figures/Mind_the_gap.jpg) 
 
-Note: I am not sure,but it is never bad to raise awareness.
+Note: Do we need to worry? I am not sure,but it is never bad to raise awareness.
 so Valia and I designed a small exercise, or better said, a game to discover or make more explicit what we do in our research time.
 
 ---
