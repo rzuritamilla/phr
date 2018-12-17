@@ -43,13 +43,13 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 ### Tabu list
 <div class="left">
     <ul>
-        <li>Map </li>
+        <li>Geo*, GIS </li>
         <br>
-        <li>‎Visualization </li>
+        <li>‎Map, visualization, Cartography </li>
         <br>
-        <li>Cartography </li>
+        <li>Model </li>
         <br>
-        <li>Data engineering </li>
+        <li>Data engineering, web,  </li>
     </ul>
 </div>
 <div class="right">
@@ -67,6 +67,8 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 ---
 ### Timer
 ![YTtimer](https://www.youtube.com/embed/4ASKMcdCc3g)
+
+Note: change to 5 mins? this should be enough time to answer 2 (3?) questions
 
 ---
 ### Lottery time
