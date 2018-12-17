@@ -4,8 +4,6 @@
 ###### @color[white](R. Zurita-Milla)
 ###### @color[white](20 December 2018) 
 
----
-
 Note: With Valia we just looked back at our research meetings. In this short presentation I will look at the broader scientific community and the tensions that seem to be bubbling across the world.
 
 
@@ -16,15 +14,15 @@ Note: Researchers are typically good observers, but many seem to have trouble sp
 
 ---
 ### Words matter 
-![](figures/d41586-018-05143-8_15761502.jpg)
+![](lab_gap/figures/d41586-018-05143-8_15761502.jpg)
 
 ---
 ### Perception gap
-![](figures/d41586-018-05143-8_15761500.jpg)
+![](lab_gap/figures/d41586-018-05143-8_15761500.jpg)
 
 ---
 ### Factors to fix 
-![](figures/d41586-018-05143-8_15761504.jpg)
+![](lab_gap/figures/d41586-018-05143-8_15761504.jpg)
 
 
 ---
