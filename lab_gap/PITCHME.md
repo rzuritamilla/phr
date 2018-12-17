@@ -12,15 +12,14 @@ Note: With Valia we just looked back at our research meetings. In this short pre
 
 Note: Researchers are typically good observers, but many seem to have trouble spotting the problems right under their noses. Those who run labs have a much rosier picture of the dynamics in their research groups than the one perceived by the working floor.
 
----?image=lab_gap/figures/d41586-018-05143-8_15761502.jpg&position=center&size=60% 
-### Words matter 
+---?image=lab_gap/figures/d41586-018-05143-8_15761502.jpg&position=center&size=50% 
+@title[Words_matter] 
 
----?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=60% 
-### Perception gap
+---?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=40% 
+@title[Perception_gap]
 
----?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=60% 
-### Factors to fix 
-
+---?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=40% 
+@title[Factors_to_fix] 
 
 ---
 ### Perception gap at GIP?
