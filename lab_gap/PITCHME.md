@@ -43,18 +43,18 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 ### Tabu list
 <div class="left">
     <ul>
-        <li>word 1 </li>
+        <li>Map </li>
         <br>
-        <li>‎2 </li>
+        <li>‎Visualization </li>
         <br>
-        <li>3 </li>
+        <li>Cartography </li>
         <br>
-        <li>4 </li>
+        <li>Data engineering </li>
     </ul>
 </div>
 <div class="right">
     <ul>
-        <li>word 5 </li>
+        <li>Analytics </li>
         <br>
         <li>‎2 </li>
         <br>
