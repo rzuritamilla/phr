@@ -32,10 +32,10 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 ### Rules of the game
 @ul
 - Open the paper you got and read (for yourself) the name of a GIP colleague
-- Write (in ~10 mins) the following information about him/her (words in the tabu list cannot be used!): 
+- Write down the following information about him/her (words in the tabu list cannot be used!): 
 	- Application domain 
-	-  Methods (remove?)
-	-  Unique characteristic 
+	- Methods (remove?)
+	- Unique characteristic 
 - Put the paper back in the lottery pot
 @ulend
 
@@ -63,6 +63,10 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
         <li>4 </li>
     </ul>
 </div>
+
+---
+### Timer
+![YTtimer](https://www.youtube.com/embed/4ASKMcdCc3g)
 
 ---
 ### Lottery time
