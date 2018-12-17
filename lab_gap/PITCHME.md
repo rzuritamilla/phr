@@ -7,7 +7,7 @@
 Note: With Valia we just looked back at our research meetings. In this short presentation I will look at the broader scientific community and the tensions that seem to be bubbling across the world.
 
 
----?image=lab_gap/figures/d41586-018-05143-8_15764610.jpg&position=center&size=cover
+---?image=lab_gap/figures/d41586-018-05143-8_15764610.jpg&position=center&size=95%
 @title[intro]
 
 Note: Researchers are typically good observers, but many seem to have trouble spotting the problems right under their noses. Those who run labs have a much rosier picture of the dynamics in their research groups than the one perceived by the working floor.
@@ -15,10 +15,10 @@ Note: Researchers are typically good observers, but many seem to have trouble sp
 ---?image=lab_gap/figures/d41586-018-05143-8_15761502.jpg&position=center&size=50% 
 @title[Words_matter] 
 
----?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=86% 
+---?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=87% 
 @title[Perception_gap]
 
----?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=78% 
+---?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=80% 
 @title[Factors_to_fix] 
 
 ---
