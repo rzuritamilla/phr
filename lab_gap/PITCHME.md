@@ -30,14 +30,14 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 
 ---
 ### Rules of the game
-@ol
-1.  Open the paper you got and read (for yourself) the name of a GIP colleague
-2.  Write (in ~10 mins) the following information about him/her (words in the tabu list cannot be used!): 
-	1.  Application domain 
-	2.  Methods (remove?)
-	3.  Unique characteristic 
-3. Put the paper back in the lottery pot
-@olend
+@ul
+- Open the paper you got and read (for yourself) the name of a GIP colleague
+- Write (in ~10 mins) the following information about him/her (words in the tabu list cannot be used!): 
+	- Application domain 
+	-  Methods (remove?)
+	-  Unique characteristic 
+- Put the paper back in the lottery pot
+@ulend
 
 ---
 ### Tabu list
@@ -86,58 +86,6 @@ educated  scientist  outside  their  field  of  specialty.  The  primary
 goal of the Significance Statement is to explain the relevance of 
 the  work  in  broad  context  to  a  broad  readership. (https://blog.pnas.org/iforc.pdf)
 
-
----
-### GIP goal 
-@title[GIP_goal]
-
-```AsciiDoc
-GIP develops methods and techniques to produce actionable geo-information 
-that supports knowledge generation and/or decision-making 
-with a focus on societal problems that deal with changes in space, place, and time.
-```
-
-Note: forgot because of holidays. this is what we do. We work on methods and techniques for ST analysis by integrating knowledge and know-how from 
-geography, engineering, CS and other scientific domains and we want to use those methods and techniques to contribute to solving socially-relevant problems.
-
----
-### GIP domains 
-@title[GIP_domains]
-![GIP](phr/figures/GIP_new.PNG)
-
-Note: and here we have a couple of graphical representations of our work. On the left we see the GIP can be placed in the triangle formed by Geo, CS/digital humanities and applications. Nowadays with a strong emphasis on the SDGs and big data. On the right we see the 5 domains of GIP and how problems can "circulate" across them in various ways until a proper solution is found (or better to be able to find a proper solution).
-
---- 
-### My role as PHR
-@title[PHR]
-@ol
-- Facilitate research work
-- Promote integration of talents 
-- Move towards open science
-@olend
-Note: as PHR, I would like to focus on 1, 2 and 3, and in the coming slides i briefly sketch ideas. These ideas are,  of course, open for discussion and your feedback is very much welcomed!
-
---- 
-### Facilitate research work
-@title[research_FJUT]
-<div class="left">
-![](phr/figures/talk_to_me.jpg)
-</div>
-<div class="right">
-    <ul>
-        <li>Central point: Staff, PhD and MSc research </li>
-        <br>
-        <li>‎Link to GIP MT and FMT: strategy and research proposals </li>
-        <br>
-        <li>Support everyone to do their best: GIP website, sounding board </li>
-        <br>
-        <li>Connect with problem owners: meet their needs, co-create knowledge </li>
-    </ul>
-</div>
-
-Note: Corné (MSc research), Valia (GIP research meetings)
-MT: strategic decisions and FMT for NWO proposals, for instance
-use of website to share tips, funny news and articles that can help you with your research.
 
 +++ 
 ### Facilitate research work
