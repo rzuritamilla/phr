@@ -15,7 +15,7 @@ Note: Researchers are typically good observers, but many seem to have trouble sp
 ---?image=lab_gap/figures/d41586-018-05143-8_15761502.jpg&position=center&size=50% 
 @title[Words_matter] 
 
----?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=83% 
+---?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=86% 
 @title[Perception_gap]
 
 ---?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=78% 
