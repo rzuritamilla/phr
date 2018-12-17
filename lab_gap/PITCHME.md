@@ -29,6 +29,29 @@ Note: Do we need to worry? I am not sure,but it is never bad to raise awareness.
 so Valia and I designed a small exercise, or better said, a game to discover or make more explicit what we do in our research time.
 
 ---
+### Gap game
+
+Rules of the game:
+1.  Open the paper you got and read (for yourself) the name of a GIP colleague
+2.  Write (in ~10 mins) the following information about him/her: 
+NB: words in the tabu list cannot be used!
+	1.  Application domain 
+	2.  Methods (remove?)
+	3.  Unique characteristic 
+3. Put the paper back in the lottery pot
+
+---
+### Lottery time
+
+
+---
+### How do we close the gap?
+
+
+
+
+
+---
 ### Significance statements
 
 Note: Significance  Statement.
