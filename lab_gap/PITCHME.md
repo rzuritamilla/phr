@@ -45,22 +45,22 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
     <ul>
         <li>Geo*, GIS </li>
         <br>
+        <li>Data, information, Model* </li>
+        <br> 
         <li>‎Map, visualization, Cartography </li>
         <br>
-        <li>Model </li>
-        <br>
-        <li>Data engineering, web,  </li>
+        <li>Data engineering, web, services </li>
     </ul>
 </div>
 <div class="right">
     <ul>
-        <li>Analytics </li>
+        <li>Analytics, processing </li>
         <br>
-        <li>‎2 </li>
+        <li>‎VGI, science</li>
         <br>
-        <li>3 </li>
+        <li>Cloud, AI, ML, DM </li>
         <br>
-        <li>4 </li>
+        <li>Programming </li>
     </ul>
 </div>
 
