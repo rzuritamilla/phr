@@ -7,7 +7,7 @@
 Note: With Valia we just looked back at our research meetings. In this short presentation I will look at the broader scientific community and the tensions that seem to be bubbling across the world.
 
 
----?image=lab_gap/figures/d41586-018-05143-8_15764610.jpg&position=center&size=95%
+---?image=lab_gap/figures/d41586-018-05143-8_15764610.jpg&position=center&size=93%
 @title[intro]
 
 Note: Researchers are typically good observers, but many seem to have trouble spotting the problems right under their noses. Those who run labs have a much rosier picture of the dynamics in their research groups than the one perceived by the working floor.
@@ -25,7 +25,9 @@ Note: Researchers are typically good observers, but many seem to have trouble sp
 ### Perception gap at GIP?
 Do we need to worry?
 
-Note: I am not sure, but it is never bad to raise awareness.
+![](lab_gap/figures/Mind_the_gap.jpg) 
+
+Note: I am not sure,but it is never bad to raise awareness.
 so Valia and I designed a small exercise, or better said, a game to discover or make more explicit what we do in our research time.
 
 ---
