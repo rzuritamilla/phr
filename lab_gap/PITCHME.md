@@ -237,6 +237,7 @@ Note: many new ideas and some of you might be thinking that i am a dreamer but i
 <br>
 
 @size[80%](@color[white](@fa[envelope]  e.drakou@utwente.nl))
+
 @size[90%](@color[white](@fa[envelope]  r.zurita-milla@utwente.nl))
 
 @size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMGAP))
