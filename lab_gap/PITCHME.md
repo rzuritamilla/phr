@@ -12,17 +12,14 @@ Note: With Valia we just looked back at our research meetings. In this short pre
 
 Note: Researchers are typically good observers, but many seem to have trouble spotting the problems right under their noses. Those who run labs have a much rosier picture of the dynamics in their research groups than the one perceived by the working floor.
 
----
+---?image=lab_gap/figures/d41586-018-05143-8_15761502.jpg&position=center&size=60% 
 ### Words matter 
-![](lab_gap/figures/d41586-018-05143-8_15761502.jpg)
 
----
+---?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=60% 
 ### Perception gap
-![](lab_gap/figures/d41586-018-05143-8_15761500.jpg)
 
----
+---?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=60% 
 ### Factors to fix 
-![](lab_gap/figures/d41586-018-05143-8_15761504.jpg)
 
 
 ---
@@ -225,7 +222,7 @@ Note: many new ideas and some of you might be thinking that i am a dreamer but i
 2. Promote integration of talents - Teamwork
 3. Move towards ORR - Task force  
 
----?image=phr/figures/That_s_all_folks.png&size=cover
+---?image=lab_gap/figures/That_s_all_folks.png&size=cover
 @title[end]
 <br><br>
 <br><br>
@@ -234,4 +231,4 @@ Note: many new ideas and some of you might be thinking that i am a dreamer but i
 <br>
 @color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
 
-@size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMPHR))
+@size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMGAP))
