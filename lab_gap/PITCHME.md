@@ -48,7 +48,7 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 @ul
 - Open the paper you got and check the name of the GIP colleague assigned to you.
 - Write down the following information about him/her: 
-	- Specialization area (e.g. methods/application domain) 
+	- Specialization area @size[66%]((e.g. methods/application domain)) 
 	- Professional unique characteristic 
 	- @color[red](**words in the tabu list cannot be used!**)
 - Fold the paper and put it back in the lottery pot
