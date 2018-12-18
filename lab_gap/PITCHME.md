@@ -39,9 +39,8 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 @ul
 - Open the paper you got and read (for yourself) the name of a GIP colleague
 - Write down the following information about him/her (words in the tabu list cannot be used!): 
-	- Application domain 
-	- Methods (remove?)
-	- Unique characteristic 
+	- Specialization area (e.g. methods/application domain) 
+	- Professional unique characteristic 
 - Put the paper back in the lottery pot
 @ulend
 
@@ -72,9 +71,8 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 
 ---
 ### Timer
-![YTtimer](https://www.youtube.com/embed/4ASKMcdCc3g)
+![YTtimer](https://www.youtube.com/embed/lvJrx5Aecxk)
 
-Note: change to 5 mins? this should be enough time to answer 2 (3?) questions. https://youtu.be/lvJrx5Aecxk
 
 ---
 ### Lottery time
@@ -83,7 +81,7 @@ Note: change to 5 mins? this should be enough time to answer 2 (3?) questions. h
 ---
 ### Let's play together
 
-<iframe class="stretch" data-src="https://www.mentimeter.com/s/d91a57193171cdf49454b8c32a1f3f65/3950950daa8a"></iframe>
+<iframe class="stretch" data-src="https://www.mentimeter.com/s/6714cfae2984b7e373cc6bd857a1e879/cac0c9854169"></iframe>
 
 
 ---?image=lab_gap/figures/That_s_all_folks.png&size=cover
