@@ -74,16 +74,16 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 ### Timer
 ![YTtimer](https://www.youtube.com/embed/4ASKMcdCc3g)
 
-Note: change to 5 mins? this should be enough time to answer 2 (3?) questions
+Note: change to 5 mins? this should be enough time to answer 2 (3?) questions. https://youtu.be/lvJrx5Aecxk
 
 ---
 ### Lottery time
 
 
 ---
-### How do we close the gap?
+### Let's play together
 
-
+<iframe class="stretch" data-src="https://www.mentimeter.com/s/d91a57193171cdf49454b8c32a1f3f65/5eb57a276cba"></iframe>
 
 
 
@@ -235,6 +235,6 @@ Note: many new ideas and some of you might be thinking that i am a dreamer but i
 <br><br>
 <br><br>
 <br>
-@size[80%](@color[white](@fa[envelope]  e.drakou@utwente.nl & r.zurita-milla@utwente.nl))
+@size[90%](@color[white](@fa[envelope]  {e.drakou, r.zurita-milla}@utwente.nl))
 <br>
 @size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMGAP))
