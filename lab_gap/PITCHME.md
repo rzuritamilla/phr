@@ -96,7 +96,7 @@ Note: select 3-4 names and ask him/her to read the paper and comment upon the te
 ### Let's play together
 @title[mentimer]
 
-<iframe class="stretch" data-src="https://www.mentimeter.com/s/6714cfae2984b7e373cc6bd857a1e879/cac0c9854169"></iframe>
+<iframe class="stretch" data-src="https://www.mentimeter.com/s/9b5055a258836c4dc0889ec1b2579020/dc16a2c3ff3e"></iframe>
 
 Note: do not forget to ask someone to manage the mentimer site... 
 
