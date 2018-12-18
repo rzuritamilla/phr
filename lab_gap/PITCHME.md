@@ -94,6 +94,11 @@ Note: select 3-4 names and ask him/her to read the paper and comment upon the te
 
 ---
 ### Let's play together
+@title[mentimerIntro]
+![](lab_gap/figures/Menti.PNG)
+
+---
+### Let's play together
 @title[mentimer]
 
 <iframe class="stretch" data-src="https://www.mentimeter.com/s/9b5055a258836c4dc0889ec1b2579020/dc16a2c3ff3e"></iframe>
