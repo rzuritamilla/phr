@@ -88,7 +88,7 @@ Note: you have 5 mins. No more :-)
 ---
 ### Lottery time
 @title[lototime]
-![](lab_gap/figures/congratulations.png)
+![](lab_gap/figures/And_the_winner_is_.png)
 
 Note: select 3-4 names and ask him/her to read the paper and comment upon the text he/she got. This time there are not tabu words. 
 
