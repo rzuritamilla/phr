@@ -88,14 +88,16 @@ Note: you have 5 mins. No more :-)
 ---
 ### Lottery time
 @title[lototime]
-Note: select 3-4 names and ask him/her to read the paper and comment upon the text he/she got. This time there are not tabu words. 
-
 ![](lab_gap/figures/congratulations.png)
+
+Note: select 3-4 names and ask him/her to read the paper and comment upon the text he/she got. This time there are not tabu words. 
 
 ---
 ### Let's play together
 @title[mentimerIntro]
 ![](lab_gap/figures/Menti.PNG)
+
+Note: make sure that the menti code is correct...
 
 ---
 ### Let's play together
