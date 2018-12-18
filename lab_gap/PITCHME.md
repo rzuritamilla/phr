@@ -90,6 +90,8 @@ Note: you have 5 mins. No more :-)
 @title[lototime]
 Note: select 3-4 names and ask him/her to read the paper and comment upon the text he/she got. This time there are not tabu words. 
 
+![](lab_gap/figures/congratulations.png)
+
 ---
 ### Let's play together
 @title[mentimer]
