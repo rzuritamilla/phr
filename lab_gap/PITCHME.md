@@ -15,17 +15,26 @@ Note: Researchers are typically good observers, but many seem to have trouble sp
 ---?image=lab_gap/figures/d41586-018-05143-8_15761502.jpg&position=center&size=50% 
 @title[Words_matter] 
 
+Note: PI vs non-PIs and the group of most discontent people. These results were extracted from a survey done by Nature with more than 3,200 scientists.
+
 ---?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=87% 
 @title[Perception_gap]
+
+Note: there is clear gap between managers and the actual workforce. perception gaps are not only happening in academia but also in our daily lives.
 
 +++?image=lab_gap/figures/perils_perception.jpg&position=center&size=cover 
 @title[perils]
 
+Note: IPSOS just published a report on the perils of perception. People from 32 countries were interviewed on a variety of topics: Environment, crime, sexual behaviour, etc. Here I will focus on environmental issues. 
+
 +++?image=lab_gap/figures/hot_years.PNG&position=center&size=cover
 @title[joke_ES_NL]
+Note: people from different countries were asked the following question
+Incidentally, this figure also shows that Spain can lead positive rankings too and that the perception of climate change in NL is not very good... Something for Javier to discuss with Rutte next time that they meet in Colombia.
 
 ---?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=80% 
 @title[Factors_to_fix] 
+Note: now back to academia again, the perception gap is also visible in the list of items that should be "fixed" according to various groups
 
 ---
 ### Perception gap at GIP?
@@ -37,20 +46,21 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 ---
 ### Rules of the game
 @ul
-- Open the paper you got and read (for yourself) the name of a GIP colleague
-- Write down the following information about him/her (words in the tabu list cannot be used!): 
+- Open the paper you got and check the name of the GIP colleague assigned to you.
+- Write down the following information about him/her: 
 	- Specialization area (e.g. methods/application domain) 
 	- Professional unique characteristic 
-- Put the paper back in the lottery pot
+	- @color[red](**words in the tabu list cannot be used!**)
+- Fold the paper and put it back in the lottery pot
 @ulend
 
 ---
 ### Tabu list
 <div class="left">
     <ul>
-        <li>Geo*, GIS </li>
+        <li>Geo~, GIS </li>
         <br>
-        <li>Data, information, Model* </li>
+        <li>Data, information, Model~ </li>
         <br> 
         <li>‎Map, visualization, Cartography </li>
         <br>
@@ -65,24 +75,28 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
         <br>
         <li>Cloud, AI, ML, DM </li>
         <br>
-        <li>Programming </li>
+        <li>Programming, computing, coding </li>
     </ul>
 </div>
 
 ---
 ### Timer
 ![YTtimer](https://www.youtube.com/embed/lvJrx5Aecxk)
-
+@title[timer]
+Note: you have 5 mins. No more :-)
 
 ---
 ### Lottery time
-
+@title[lototime]
+Note: select 3-4 names and ask him/her to read the paper and comment upon the text he/she got. This time there are not tabu words. 
 
 ---
 ### Let's play together
+@title[mentimer]
 
 <iframe class="stretch" data-src="https://www.mentimeter.com/s/6714cfae2984b7e373cc6bd857a1e879/cac0c9854169"></iframe>
 
+Note: do not forget to ask someone to manage the mentimer site... 
 
 ---?image=lab_gap/figures/That_s_all_folks.png&size=cover
 @title[end]
