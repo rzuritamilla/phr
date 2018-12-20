@@ -107,6 +107,10 @@ Note: make sure that the menti code is correct...
 
 Note: do not forget to ask someone to manage the mentimer site... 
 
+---?image=lab_gap/figures/pipi.jpg&position=center&size=cover
+
+Note: let's start the year with pipi's mood!!
+
 ---?image=lab_gap/figures/That_s_all_folks.png&size=cover
 @title[end]
 <br><br>
