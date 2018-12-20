@@ -107,7 +107,7 @@ Note: make sure that the menti code is correct...
 
 Note: do not forget to ask someone to manage the mentimer site... 
 
----?image=lab_gap/figures/pipi.jpg&position=center&size=cover
+---?image=lab_gap/figures/pipi.jpg&position=center&size=90%
 
 Note: let's start the year with pipi's mood!!
 
@@ -120,4 +120,4 @@ Note: let's start the year with pipi's mood!!
 <br>
 @size[90%](@color[white](@fa[envelope]  {e.drakou, r.zurita-milla}@utwente.nl))
 <br>
-@size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMGAP))
+@size[80%](@color[white](@fa[share-alt-square]  bit.ly/2RZMGAP))
