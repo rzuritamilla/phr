@@ -3,7 +3,7 @@
 ### @color[white](Lab Gap)
 ###### @color[white](R. Zurita-Milla)
 ###### @color[white](20 December 2018)
-##### @color[white](@fa[sleigh])
+##### @color[white](@fa[candy-cane])
 
 @fa[holly-berry] @fa[sleigh] @fa[gifts] @fa[candy-cane] @fa[holly-berry]
 
