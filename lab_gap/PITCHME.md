@@ -4,23 +4,25 @@
 ###### @color[white](R. Zurita-Milla)
 ###### @color[white](20 December 2018) 
 
-Note: With Valia we just looked back at our research meetings. In this short presentation I will look at the broader scientific community and the tensions that seem to be bubbling across the world.
-
+Note: With Valia we just looked back at our research meetings. In this short presentation I will look at the broader scientific community and the tensions that seem to be bubbling across the world. This presentation is heavily based on "Some hard numbers on science’s leadership problems; doi:10.1038/d41586-018-05143-8" 
 
 ---?image=lab_gap/figures/d41586-018-05143-8_15764610.jpg&position=center&size=93%
 @title[intro]
 
-Note: Researchers are typically good observers, but many seem to have trouble spotting the problems right under their noses. Those who run labs have a much rosier picture of the dynamics in their research groups than the one perceived by the working floor.
+Note: Researchers are typically good observers, but many have trouble observing the problems that appear right under their noses. Head of departments and research administrator usually have a much rosier picture of the dynamics in their research groups than the picture perceived by the working floor.
 
 ---?image=lab_gap/figures/d41586-018-05143-8_15761502.jpg&position=center&size=50% 
 @title[Words_matter] 
 
 Note: PI vs non-PIs and the group of most discontent people. These results were extracted from a survey done by Nature with more than 3,200 scientists.
+Only 14% of PIs use negative words when describing their group. 
 
 ---?image=lab_gap/figures/d41586-018-05143-8_15761500.jpg&position=center&size=87% 
 @title[Perception_gap]
 
-Note: there is clear gap between managers and the actual workforce. perception gaps are not only happening in academia but also in our daily lives.
+Note: there is clear gap between managers and the actual workforce. 
+The gap is about 30% in all the dimensions. Summarize research projects, being available, checking experiments and doing proper data quality and data curation.
+Perception gaps are not only happening in academia but also in our daily lives.
 
 +++?image=lab_gap/figures/perils_perception.jpg&position=center&size=cover 
 @title[perils]
@@ -29,12 +31,15 @@ Note: IPSOS just published a report on the perils of perception. People from 32 
 
 +++?image=lab_gap/figures/hot_years.PNG&position=center&size=cover
 @title[joke_ES_NL]
-Note: people from different countries were asked the following question
-Incidentally, this figure also shows that Spain can lead positive rankings too and that the perception of climate change in NL is not very good... Something for Javier to discuss with Rutte next time that they meet in Colombia.
+Note: people from different countries were asked the following question...
+Incidentally, this figure also shows that Spain can lead positive rankings too and that the perception of climate change in NL is not very good. Something for Javier to discuss with Rutte next time that they meet in Colombia.
 
 ---?image=lab_gap/figures/d41586-018-05143-8_15761504.jpg&position=center&size=80% 
 @title[Factors_to_fix] 
-Note: now back to academia again, the perception gap is also visible in the list of items that should be "fixed" according to various groups
+Note: now back to academia again, the perception gap is also visible in the list of items that should be "fixed" according to various groups.
+PIs care about KPI and management
+Non-PIs about their work-life balance and the (unfair) way in which their work is valued/evaluated
+Discontent researchers complaint about mentoring and management skills of people higher up in the hierarchy. if you want to know more about this, you can check Dilbert :-)
 
 ---
 ### Perception gap at GIP?
@@ -50,12 +55,12 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 - Write down the following information about him/her: 
 	- Specialization area @size[66%]((e.g. methods/application domain)) 
 	- Professional unique characteristic 
-	- @color[red](**words in the tabu list cannot be used!**)
+	- @color[red](**words in the list of tabu terms cannot be used!**)
 - Fold the paper and put it back in the lottery pot
 @ulend
 
 ---
-### Tabu list
+### Tabu terms
 <div class="left">
     <ul>
         <li>Geo~, GIS </li>
@@ -81,8 +86,9 @@ so Valia and I designed a small exercise, or better said, a game to discover or 
 
 ---
 ### Timer
-![YTtimer](https://www.youtube.com/embed/lvJrx5Aecxk)
 @title[timer]
+![YTtimer](https://www.youtube.com/embed/lvJrx5Aecxk)
+
 Note: you have 5 mins. No more :-)
 
 ---
@@ -108,8 +114,9 @@ Note: make sure that the menti code is correct...
 Note: do not forget to ask someone to manage the mentimer site... 
 
 ---?image=lab_gap/figures/pipi.jpg&position=center&size=90%
+@title[pippi]
 
-Note: let's start the year with pipi's mood!!
+Note: let's start the year with pippi's mood!!
 
 ---?image=lab_gap/figures/That_s_all_folks.png&size=cover
 @title[end]
@@ -118,6 +125,6 @@ Note: let's start the year with pipi's mood!!
 <br><br>
 <br><br>
 <br>
-@size[90%](@color[white](@fa[envelope]  {e.drakou, r.zurita-milla}@utwente.nl))
+@size[90%](@color[white](@fa[envelope] {e.drakou, r.zurita-milla}@utwente.nl))
 <br>
-@size[80%](@color[white](@fa[share-alt-square]  bit.ly/2RZMGAP))
+@size[80%](@color[white](@fa[share-alt-square] bit.ly/2RZMGAP))
