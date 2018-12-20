@@ -3,9 +3,7 @@
 ### @color[white](Lab Gap)
 ###### @color[white](R. Zurita-Milla)
 ###### @color[white](20 December 2018 - Xmas edition)
- 
-@fa[gifts]
-
+##### @fa[gifts]
 @color[white](@fa[holly-berry] @fa[sleigh] @fa[gifts] @fa[candy-cane] @fa[holly-berry]) 
 
 Note: With Valia we just looked back at our research meetings. In this short presentation I will look at the broader scientific community and the tensions that seem to be bubbling across the world. This presentation is heavily based on "Some hard numbers on science’s leadership problems; doi:10.1038/d41586-018-05143-8" 
