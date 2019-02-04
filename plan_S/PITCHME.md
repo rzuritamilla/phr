@@ -67,7 +67,7 @@ We encourage research organizations to support the management and open publishin
 
 Note: O'Neill, Gareth; DiFranco, Matthew; Swart, Marcel (2018-09-24). "Joint Statement on Open Access for Researchers via Plan S". Zenodo. doi:10.5281/zenodo.1465451.
 
----?image=plan_S/figures/angel_devil.png&position=center&size=50%  
+---?image=plan_S/figures/angel_devil.png&position=bottom&size=50%  
 ### Two scenarios
 
 ---
