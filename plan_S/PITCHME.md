@@ -41,14 +41,14 @@ Note: There will be a Plan S meeting at ITC on March 13. This is just a first sl
 
 
 ---
-### Reactions
+### Reactions - for profit publishers
 > if you think that information should be free of charge, go to Wikipedia <br>
 > @size[70%](Tom Reller -- Elsevier)
 
 Note: what happened to  paper encyclopedias? 
 
 ---
-### Reactions 
+### Reactions - common sense 
 cOAlition S strongly encourages that research data, preprints, and other research 
 outputs are made openly accessible, subject to the usual legal and ethical 
 considerations. 
@@ -58,7 +58,7 @@ cOAlition S supports the intentions of the San Francisco DORA that research need
 @size[70%]( Plan S implementation plan)
 
 ---
-### Reactions 
+### Reactions - common sense#2
 There is a lack of explicit reference to data and code. The protocols for data management and for access to the data and code behind a publication are crucial for validating and reproducing research results. 
 
 We encourage research organizations to support the management and open publishing of research data and code according to FAIR principles.
@@ -69,6 +69,8 @@ Note: O'Neill, Gareth; DiFranco, Matthew; Swart, Marcel (2018-09-24). "Joint Sta
 
 ---?image=plan_S/figures/angel_devil.png&position=bottom&size=50%  
 ### Two scenarios
+<br><br><br><br><br>
+<br><br><br><br><br>
 
 ---
 ### Scenario#1
