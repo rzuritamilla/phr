@@ -20,12 +20,12 @@ Note: There will be a Plan S meeting at ITC on March 13. This is just a first sl
 - authors should retain copyright on their publications, which must be published under an open license;
 - the members of the coalition should establish robust criteria and requirements for compliant OA journals and platforms;
 - they should also provide incentives for the creation of compliant OA journals and platforms if they do not yet exist;
-- publication fees should be covered by the funders or universities, not individual researchers;
 @ulend 
 
 ---
 ### Principles#2 
 @ul
+- publication fees should be covered by the funders or universities, not individual researchers;
 - such publication fees should be standardized and capped;
 - universities, research organizations, and libraries should align their policies and strategies;
 - for books and monographs, the timeline may be extended beyond 2020;
@@ -51,8 +51,11 @@ Note: what happened to  paper encyclopedias?
 ### Reactions 
 cOAlition S strongly encourages that research data, preprints, and other research 
 outputs are made openly accessible, subject to the usual legal and ethical 
-considerations. cOAlition S supports the intentions of the San Francisco DORA that research needs to be  assessed on its own merits rather than on the basis of the venue in which the research is published.
+considerations. 
 
+cOAlition S supports the intentions of the San Francisco DORA that research needs to be  assessed on its own merits rather than on the basis of the venue in which the research is published.
+
+@size[70%]( Plan S implementation plan)
 
 ---
 ### Reactions 
@@ -64,7 +67,7 @@ We encourage research organizations to support the management and open publishin
 
 Note: O'Neill, Gareth; DiFranco, Matthew; Swart, Marcel (2018-09-24). "Joint Statement on Open Access for Researchers via Plan S". Zenodo. doi:10.5281/zenodo.1465451.
 
----?image=plan_S/figures/angel_devil.png&position=center&size=50  
+---?image=plan_S/figures/angel_devil.png&position=center&size=50%  
 ### Two scenarios
 
 ---
