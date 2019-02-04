@@ -20,6 +20,9 @@ Note: There will be a Plan S meeting at ITC on March 13. This is just a first sl
 2. the members of the coalition should establish robust criteria and requirements for compliant OA journals and platforms;
 3. they should also provide incentives for the creation of compliant OA journals and platforms if they do not yet exist;
 4. publication fees should be covered by the funders or universities, not individual researchers;
+
+---
+### Principles 
 5. such publication fees should be standardized and capped;
 6. universities, research organizations, and libraries should align their policies and strategies;
 7. for books and monographs, the timeline may be extended beyond 2020;
@@ -27,14 +30,6 @@ Note: There will be a Plan S meeting at ITC on March 13. This is just a first sl
 9. hybrid open-access journals are not compliant with the key principle;
 10. members of the coalition should monitor and sanction non-compliance.
 
----    
-### Reactions
-Tom Reller (Elsevier)
-```AsciiDoc
-if you think that information should be free of charge, go to Wikipedia
-```
-
-Note: what happened to  paper encyclopedias? 
 
 ---
 ### Reactions
@@ -60,7 +55,7 @@ We encourage research organizations to support the management and open publishin
 
 Note: O'Neill, Gareth; DiFranco, Matthew; Swart, Marcel (2018-09-24). "Joint Statement on Open Access for Researchers via Plan S". Zenodo. doi:10.5281/zenodo.1465451.
 
----?image=plan_S/figures/angel_devil.png&position=center&size=cover  
+---?image=plan_S/figures/angel_devil.png&position=center&size=80  
 ### Two scenarios
 
 ---
