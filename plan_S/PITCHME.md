@@ -130,12 +130,13 @@ Diamond OA is paid with the money saved in APC
 Journals funding is transparent and clear to everyone
 Journals request funding for X years and their quality is peer reviewed 
 Preprint services could either be an alternative or become a new-style journal 
-The scientific community decides which journals to fund
+
 
 ---
 ### Scenario#2
 Jan 1, 2021
 
+The scientific community decides which journals to fund
 No predatory journals
 Publishers provide a service for a fee.
 This creates a healthy competition among journals
