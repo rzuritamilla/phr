@@ -76,12 +76,16 @@ Note: O'Neill, Gareth; DiFranco, Matthew; Swart, Marcel (2018-09-24). "Joint Sta
 ### Scenario#1
 Jan 1, 2021
 
-Plan S has led to mandatory Gold OA. Authors pay APC ~ 2500 Eur
-
+Plan S has led to mandatory Gold OA. 
+Authors pay APC ~ 2500 Eur
 Higher prices seem to indicate better quality
 
 Researchers with money can pay those fees
 Researchers without money struggle or cannot publish in OA journals
+
+---
+### Scenario#1
+Jan 1, 2021
 
 Smaller academic disciplines die out. They cannot publish in good journals, bad CV, no publication grants, specialized knowledge disappears.
 
@@ -101,6 +105,10 @@ Quality is not controlled. Quantity is more important for publishers
 Private research use publications to advertize their work/product
 
 European bodies are set to control predatory journals but cannot keep up with developments.
+
+---
+### Scenario#1
+Jan 1, 2023
 
 Researchers are confused. Low trust in science
 Young people are told not to become a scientist
@@ -123,6 +131,10 @@ Journals funding is transparent and clear to everyone
 Journals request funding for X years and their quality is peer reviewed 
 Preprint services could either be an alternative or become a new-style journal 
 The scientific community decides which journals to fund
+
+---
+### Scenario#2
+Jan 1, 2021
 
 No predatory journals
 Publishers provide a service for a fee.
