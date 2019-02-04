@@ -15,20 +15,29 @@ Note: There will be a Plan S meeting at ITC on March 13. This is just a first sl
 @ulend
 
 ---
-### Principles 
-1. authors should retain copyright on their publications, which must be published under an open license;
-2. the members of the coalition should establish robust criteria and requirements for compliant OA journals and platforms;
-3. they should also provide incentives for the creation of compliant OA journals and platforms if they do not yet exist;
-4. publication fees should be covered by the funders or universities, not individual researchers;
+### Principles#1 
+@ul
+- authors should retain copyright on their publications, which must be published under an open license;
+- the members of the coalition should establish robust criteria and requirements for compliant OA journals and platforms;
+- they should also provide incentives for the creation of compliant OA journals and platforms if they do not yet exist;
+- publication fees should be covered by the funders or universities, not individual researchers;
+@ulend 
 
 ---
-### Principles 
-5. such publication fees should be standardized and capped;
-6. universities, research organizations, and libraries should align their policies and strategies;
-7. for books and monographs, the timeline may be extended beyond 2020;
-8. open archives and repositories are acknowledged for their importance;
-9. hybrid open-access journals are not compliant with the key principle;
-10. members of the coalition should monitor and sanction non-compliance.
+### Principles#2 
+@ul
+- such publication fees should be standardized and capped;
+- universities, research organizations, and libraries should align their policies and strategies;
+- for books and monographs, the timeline may be extended beyond 2020;
+@ulend 
+
+---
+### Principles#3 
+@ul 
+- open archives and repositories are acknowledged for their importance;
+- hybrid open-access journals are not compliant with the key principle;
+- members of the coalition should monitor and sanction non-compliance.
+@ulend 
 
 
 ---
@@ -55,7 +64,7 @@ We encourage research organizations to support the management and open publishin
 
 Note: O'Neill, Gareth; DiFranco, Matthew; Swart, Marcel (2018-09-24). "Joint Statement on Open Access for Researchers via Plan S". Zenodo. doi:10.5281/zenodo.1465451.
 
----?image=plan_S/figures/angel_devil.png&position=center&size=80  
+---?image=plan_S/figures/angel_devil.png&position=center&size=50  
 ### Two scenarios
 
 ---
