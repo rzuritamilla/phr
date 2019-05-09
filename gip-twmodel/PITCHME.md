@@ -239,7 +239,7 @@ Note: Follow up a day latter to encourage collaboration. how might this publicat
 
 ---
 ### A Team 
-@title[team A]
+@title[A-team]
 <div class="left">
 ![](gip-twmodel/figures/Ateam.jpg)
 </div>
@@ -255,22 +255,23 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 
 ---
 ### GIP research project
+@ul[](false)
+- Crowdsource a couple of "GIP megaprojects" (Large "umbrella" projects connected to at least 3 out of the 5 GIP domains and that has real partners -- industry, NGOs, etc)
 
-Crowdsource a couple of "GIP megaprojects"
-Large "umbrella" projects connected to at least 3 out of the 5 GIP domains and that has real partners (industry, NGOs, etc)
+- GIP researchers and PhD students work on these project together with problem-owners. 
 
-GIP researchers and PhD students work on these project together with problem-owners. 
+- MSc topics are derived from these projects. We promote horizontal collaborations by, for instance, having than 1 researcher/student working on the same topic and dataset but then looking at the problem from different perspectives (5 GIP sub-domains).
 
-MSc topics are derived from these projects. We promote horizontal collaborations by, for instance, having than 1 researcher/student working on the same topic and dataset but then looking at the problem from different perspectives (5 GIP sub-domains).
-
-workout the waterfall model and connect our work vertically and horizontally 
+- Workout the waterfall model and connect our work vertically and horizontally 
+@ulend
 
 ---
-### GIP research projects  
-Early stage: start with a scoping study to better define the topic (literature review + dataset pre-processing)
-Middle stage:  Develop geoinformation products/service. Geovisualizations, IT infrastructure, models, etc
-Long-term: Actionable information used in further publications. Identify new (related) problems   
-
+### GIP research projects
+@ul  
+- Early stage: start with a scoping study to better define the topic (literature review + dataset pre-processing)
+- Middle stage:  Develop geoinformation products/service. Geovisualizations, IT infrastructure, models, etc
+- Long-term: Actionable information used in further publications. Identify new (related) problems   
+@ulend
 
 ---?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
