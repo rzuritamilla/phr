@@ -139,7 +139,6 @@ SDGs are used because there is an absence of vision. It is not hard to reverse e
 
 +++ 
 ### Capacity building
-
 Accountability: We need a system to calibrate our success and to show it to others: funding organizations, etc. A portfolio of activities indicating goals and milestones is a pre-requisite to have a more accountable system.
 
 Mode: Open educational resources. 
@@ -171,16 +170,19 @@ Note: NWO has now signed the DORA declaration. Citations, h-indices and impact f
 
 +++
 ### Collective views 
-Agree a clear and collective view of where colleagues would like ITC to be in say five years’ time, a clear route map to get there (with targets) and the performance milestones to be reached along the way. This should build on ITCs strong values and, unless there is evidence to the contrary, be unconstrained by the goals of other organisations.
+@ul
+- Agree a clear and collective view of where colleagues would like ITC to be in say five years’ time, a clear route map to get there (with targets) and the performance milestones to be reached along the way. This should build on ITC's strong values and, unless there is evidence to the contrary, be unconstrained by the goals of other organisations.
+@ulend
 
-No comments. 
+> No comments!
 
 +++
-### Improve PhD program. 
-Analyse the characteristics of the current PhD system (recruitment, topic definition, supervision, evaluation) and create an action plan for PhD completions, with targets to achieve them.
+### Improve PhD program
+@ul
+- Analyse the characteristics of the current PhD system (recruitment, topic definition, supervision, evaluation) and create an action plan for PhD completions, with targets to achieve them.
 
-Open science proposal with JA@UT
-
+- Open science proposal with JA@UT
+@ulend
 
 +++
 ### Data management plan 
@@ -256,14 +258,14 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 
 ---
 ### GIP research project
-@ul[](false)
+@ul
 - Crowdsource a couple of "GIP megaprojects" (Large "umbrella" projects connected to at least 3 out of the 5 GIP domains and that has real partners -- industry, NGOs, etc)
 - GIP researchers and PhD students work on these project together with problem-owners. 
 @ulend
 
 ---
 ### GIP research project
-@ul[](false)
+@ul
 - MSc topics are derived from these projects. We promote horizontal collaborations by, for instance, having than 1 researcher/student working on the same topic and dataset but then looking at the problem from different perspectives (5 GIP sub-domains).
 - Workout the waterfall model and connect our work vertically and horizontally 
 @ulend
