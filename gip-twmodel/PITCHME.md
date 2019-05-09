@@ -189,9 +189,9 @@ Pre-print server
 ### Twin-Win model
 @title[T-W]
 
-> Breaktrough teories and validated solutions for societal benefit
+> Breakthrough theories and validated solutions for societal benefit
 
-Breaktrough teories in published papers
+Breakthrough theories in published papers
 validated solutions ready for widespread dissemination 
 
 Note: draw a gaussian and indicate that 10-20 % are either totally convinced or unconvinced. This presentation is for the rest.
