@@ -256,18 +256,14 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 ---
 ### GIP research project
 @ul[](false)
-
 - Crowdsource a couple of "GIP megaprojects" (Large "umbrella" projects connected to at least 3 out of the 5 GIP domains and that has real partners -- industry, NGOs, etc)
-
 - GIP researchers and PhD students work on these project together with problem-owners. 
 @ulend
 
 ---
 ### GIP research project
 @ul[](false)
-
 - MSc topics are derived from these projects. We promote horizontal collaborations by, for instance, having than 1 researcher/student working on the same topic and dataset but then looking at the problem from different perspectives (5 GIP sub-domains).
-
 - Workout the waterfall model and connect our work vertically and horizontally 
 @ulend
 
