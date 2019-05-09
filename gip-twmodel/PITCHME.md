@@ -188,9 +188,9 @@ Pre-print server
 ---
 ### Twin-Win model
 @title[T-W]
-```AsciiDoc
-Breaktrough teories  and validated solutions  for societal benefit
-```
+
+> Breaktrough teories and validated solutions for societal benefit
+
 Breaktrough teories in published papers
 validated solutions ready for widespread dissemination 
 
@@ -206,17 +206,6 @@ we need to work on realistic problems and partner with professionals in business
 - Achieving Breakthroughs via Collaborations
 - Always Build Connections
 @ulend
-
----
-### Publishing 
-University of Maryland.
-Type of publication| average citations
-Single author | 3 
-colleagues from campus | 6.1 
-colleagues from US | 9.2 
-colleagues from abroad | 13.9
-
-Note: study done using SCOPUS
 
 ---
 ### Bush was wrong
@@ -239,12 +228,14 @@ Note: Vannevar Bush; Science: The Endless Frontier (1945);
 Do something small soon. To boost confidence
 
 @ul
-- Invite external speakers. Follow up a day latter to encourage collaboration 
-- Organize a (weekly) reading group: how might this publication change your research? what did the author fail to do? what new directions does this paper open up? Send summary to those that could not participate.
+- Invite external speakers (follow up)
+- Organize a (weekly) reading group (impact on your work)
 - Organize a small workshop (SENSE)
-- Organize regular tutorials (Hands-on sessions. Plans with Luis/eScience center) 
-- Work on meaningful problems: BMGF grand challenges, NWA, read general scientific journals or news... 
+- Organize regular tutorials (Hands-on sessions) 
+- Work on meaningful problems: BMGF grand challenges, NWA,... 
+@ulend
 
+Note: Follow up a day latter to encourage collaboration. how might this publication change your research? what did the author fail to do? what new directions does this paper open up? Send summary to those that could not participate. 
 -- 
 ### Team A
 @title[team A]
