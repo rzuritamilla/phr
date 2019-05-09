@@ -235,7 +235,6 @@ Do something small soon. To boost confidence
 - Work on meaningful problems: BMGF grand challenges, NWA,... 
 @ulend
 
-
 Note: Follow up a day latter to encourage collaboration. how might this publication change your research? what did the author fail to do? what new directions does this paper open up? Send summary to those that could not participate. 
 
 ---
