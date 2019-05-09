@@ -119,8 +119,8 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 ---
 ### ITC major improvement points
 @ul[](false)
-- A. Need to measure the success of capacity building activities 
-- B. Supporting strategies for people, education, infrastructure, etc.
+- A. Measure sucess of capacity building activities 
+- B. Support strategies for people, education, infrastructure, etc.
 - C. Awareness and convergence of ITC vision 
 - D. Collective view of where we want to be in 5 years. 
 - E. Improve PhD program. 
@@ -236,7 +236,8 @@ Do something small soon. To boost confidence
 @ulend
 
 Note: Follow up a day latter to encourage collaboration. how might this publication change your research? what did the author fail to do? what new directions does this paper open up? Send summary to those that could not participate. 
--- 
+
+---
 ### Team A
 @title[team A]
 <div class="left">
