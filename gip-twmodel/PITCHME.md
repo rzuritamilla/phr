@@ -192,7 +192,7 @@ Pre-print server
 
 > Breakthrough theories and validated solutions for societal benefit
 
-Breakthrough theories in published papers
+Breakthrough theories in published papers <br>
 validated solutions ready for widespread dissemination 
 
 Note: draw a gaussian and indicate that 10-20 % are either totally convinced or unconvinced. This presentation is for the rest.
