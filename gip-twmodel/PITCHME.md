@@ -170,7 +170,7 @@ Note: NWO has now signed the DORA declaration. Citations, h-indices and impact f
 
 +++
 ### Collective views 
-@ul
+@ul[](false)
 - Agree a clear and collective view of where colleagues would like ITC to be in say five years’ time, a clear route map to get there (with targets) and the performance milestones to be reached along the way. This should build on ITC's strong values and, unless there is evidence to the contrary, be unconstrained by the goals of other organisations.
 @ulend
 
@@ -194,8 +194,10 @@ Pre-print server
 
 > Breakthrough theories and validated solutions for societal benefit
 
-Breakthrough theories in published papers <br>
-validated solutions ready for widespread dissemination 
+@ul
+- Breakthrough theories in published papers <br>
+- Validated solutions ready for widespread dissemination 
+@ulend
 
 Note: draw a gaussian and indicate that 10-20 % are either totally convinced or unconvinced. This presentation is for the rest.
 there is growing body of literature that shows that there are new ways to do research. 
