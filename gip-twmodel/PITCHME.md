@@ -113,7 +113,6 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 @ul
 - ITC needs to set its own course and plan for its own future. Importantly, ITC needs to do this in 2019 and be forging a clear path to this future in time for the next full evaluation in 2021
 <br>
-<br>
 - ITC departments need clear SMART research goals
 @ulend
 
@@ -215,7 +214,7 @@ we need to work on realistic problems and partner with professionals in business
 ---
 ### Bush was wrong
 
-Linear model: basic research --> applied research --> commercial applications 
+Basic research --> Applied research --> Commercial applications 
 
 wicked problems is only partially correct.
 multidisciplinarity is good but we need to also work with community partners rather than for them. These partners allow for validating the proposed theories and solutions
