@@ -140,7 +140,7 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 @ul[](false)
 - Accountability: metric, goals and milestones
 
-- Open educational resources: All freely available in a central repository (more visiblity, more impact). The value is not in the materials but in the quality of the teachers. if possible, promote open source software solutions 
+- Open educational resources: more visiblity, more impact. The value is not in the materials but in the quality of the teachers. if possible, promote open source software solutions 
 
 - Communities of practice: Create and support. Keep in touch via social media or, even better, through our open educational platform.
 @ulend
@@ -227,9 +227,9 @@ Note: Vannevar Bush; Science: The Endless Frontier (1945);
 
 
 ---
-### Short-term S3 strategy 
+### Short-term strategy 
 
-Do something small soon. To boost confidence
+S3: Do something small soon and boost confidence
 
 @ul
 - Invite external speakers (follow up)
