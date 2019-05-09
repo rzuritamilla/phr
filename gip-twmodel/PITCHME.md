@@ -238,7 +238,7 @@ Do something small soon. To boost confidence
 Note: Follow up a day latter to encourage collaboration. how might this publication change your research? what did the author fail to do? what new directions does this paper open up? Send summary to those that could not participate. 
 
 ---
-### Team A
+### A Team 
 @title[team A]
 <div class="left">
 ![](gip-twmodel/figures/Ateam.jpg)
