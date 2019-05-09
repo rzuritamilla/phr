@@ -118,14 +118,15 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 
 ---
 ### ITC major improvement points
-
-A. Need to measure the success of capacity building activities 
-B. Supporting strategies for people, education, infrastructure, etc.
-C. Awareness and convergence of ITC vision 
-D. Collective view of where we want to be in 5 years. 
-E. Improve PhD program. 
-F. Evaluate data management plan. How to incentivize it? (e.g. advanced pre-print repository? FAIR data and code)
-G. Enhance diversity: ethinicity, age, gender
+@ul[](false)
+- A. Need to measure the success of capacity building activities 
+- B. Supporting strategies for people, education, infrastructure, etc.
+- C. Awareness and convergence of ITC vision 
+- D. Collective view of where we want to be in 5 years. 
+- E. Improve PhD program. 
+- F. Evaluate data management plan. 
+- G. Enhance diversity: ethinicity, age, gender
+@ulend
 
 +++
 ### Capacity building.
