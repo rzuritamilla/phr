@@ -130,42 +130,39 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 
 +++
 ### Capacity building
-ITC/GIP needs to show that our work is relevant to society
-We need metrics to measure our capacity development activities
-
-SDGs are used because there is an absence of vision. It is not hard to reverse engineer contribution to SDGs but do we want to focus on high level goals drafted by others? 
-
+@ul[](false)
+- ITC/GIP needs to show that our work is relevant to society. We need metrics to measure our capacity development activities
+- SDGs are used because there is an absence of vision. It is not hard to reverse engineer contribution to SDGs but why focusing on high level goals drafted by others? 
+@ulend
 
 +++ 
 ### Capacity building
-Accountability: We need a system to calibrate our success and to show it to others: funding organizations, etc. A portfolio of activities indicating goals and milestones is a pre-requisite to have a more accountable system.
+@ul[](false)
+- Accountability: metric, goals and milestones
 
-Mode: Open educational resources. 
-All materials should be made freely available in a central repository. We then get visibility and can broaden our impact. The value is not in the materials but in the quality of the teachers/trainers. Whenever possible, promote open source software solutions 
+- Open educational resources: All freely available in a central repository (more visiblity, more impact). The value is not in the materials but in the quality of the teachers. if possible, promote open source software solutions 
 
-Create and support existing communities of practice. Keep in touch with them via social media or, even better, through our open educational platform.
+- Communities of practice: Create and support. Keep in touch via social media or, even better, through our open educational platform.
+@ulend
 
 
 +++
 ### Capacity building
-
-Content: 
-In the context of LLL, we need to develop a more up-to-date curriculum focusing on new developments and technologies (Geodata science, Python for geocomputing, etc). This curriculum is tailored WITH the help of the receiving organization (based on their needs). Again, engage with the organizations and individuals that we try to serve.
-
-More TMT-like courses and direct - and hopefully long-term- engagement with certain organizations and/or countries so that we can define our accountability plan.
-
+@ul[](false)
+- Content: we need a more up-to-date curriculum (Geodata science, Python for geocomputing, etc). The curriculum is tailored WITH the help of the receiving organization
+- More TMT-like courses and direct and long-term- engagement with organizations and/or countries so that we can draft our accountability plan.
+@ulend
 
 +++
 ### Supporting strategies
-Vision, strategic plan, targets and milestones for ITC and for each of the departments
+@ul[](false)
+- Vision, strategic plan, targets and milestones for ITC and for each of the departments
 
-We need to review our strategic plan. 
-GIP and ITC need a better defined strategy for IT infrastructure, big data/data science and open science. 
+- We need to review our strategic plan. GIP/ITC need a strategy for IT infrastructure, big data/data science and open science. 
 
-Key roles: GIP-ICT person, faculty investment on big data and knowledge hub (pre-print server)
+- Key roles: GIP-ICT person, faculty investment on big data and knowledge hub (pre-print server)
 
 Note: NWO has now signed the DORA declaration. Citations, h-indices and impact factors are not valid anymore. Impactful science is more important. Pre-prints and other scientific contributions will count in project evaluations 
-
 
 +++
 ### Collective views 
@@ -180,12 +177,15 @@ Note: NWO has now signed the DORA declaration. Citations, h-indices and impact f
 @ul
 - Analyse the characteristics of the current PhD system (recruitment, topic definition, supervision, evaluation) and create an action plan for PhD completions, with targets to achieve them.
 
-- Open science proposal with JA@UT
+- Open science proposal with JA@UT colleagues 
 @ulend
 
 +++
 ### Data management plan 
-Pre-print server 
+@ul[](false)
+- Train the trainers. change scientific paradigm (and reward system) 
+- Pre-print server/ knowledge hub  
+@ulend
 
 ---
 ### Twin-Win model
