@@ -223,14 +223,12 @@ we need to work on realistic problems and partner with professionals in business
 > Basic research --> Applied research --> Commercial applications 
 
 @ul 
-- working on wicked problems is only partially correct
-- multi/cross/inter-disciplinary are good, but we also need to also work WITH community partners rather than for them. 
-- Partners validate theories and solutions --> high-impact research 
-- work on "use-inspired" and "socially embedded" research projects
+- Working on wicked problems is only partially correct
+- Multi/cross/inter-disciplinary are good, but we also need to also work WITH community partners rather than for them. 
+- Work on "use-inspired" and "socially embedded" research projects
 @ulend
 
-Note: Vannevar Bush; Science: The Endless Frontier (1945); Partners allow for validating the proposed theories and solutions
-
+Note: Partners validate theories and solutions --> high-impact research. Vannevar Bush; Science: The Endless Frontier (1945); Partners allow for validating the proposed theories and solutions
 
 ---
 ### Short-term actions 
@@ -285,6 +283,20 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 - Middle stage:  Develop geoinformation products/service. Geovisualizations, IT infrastructure, models, etc
 - Long-term: Actionable information used in further publications. Identify new (related) problems   
 @ulend
+
+--- 
+### GIP research attitude 
+> Promote scientific rigor 
+
+@ul 
+- Redundance in experimental design 
+- Sound geoinformation methods and techniques 
+- Recognize possible sources of errors and/or limitations  
+- Avoid logical traps 
+- Intellectual honesty 
+@ulend
+
+Note: logical traps(critical thinking) ; intellectual honesty (objectivity and ethical). Taken from Casadevall A, Fang FC. 2016. Rigorous science: a how-to guide. mBio 7(6):e01902-16. doi:10.1128/mBio.01902-16
 
 ---?image=gip-twmodel/figures/climate_organization.jpeg
 Note: FRIN. further research is needed. 
