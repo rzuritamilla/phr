@@ -140,7 +140,7 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 @ul[](false)
 - Accountability: metric, goals and milestones
 
-- Open educational resources: more visiblity, more impact. The value is not in the materials but in the quality of the teachers. if possible, promote open source software solutions 
+- Open educational resources: more visiblity, more impact. The value is not in the materials but in the quality of the teachers. if possible, promote open source software solutions. 
 
 - Communities of practice: Create and support. Keep in touch via social media or, even better, through our open educational platform.
 @ulend
@@ -149,18 +149,19 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 +++
 ### Capacity building
 @ul[](false)
-- Content: we need a more up-to-date curriculum (Geodata science, Python for geocomputing, etc). The curriculum is tailored WITH the help of the receiving organization
+- Content: we need a more up-to-date curriculum (Geodata science, Python for geocomputing, etc). The curriculum is tailored WITH the help of the receiving organization.
+
 - More TMT-like courses and direct and long-term- engagement with organizations and/or countries so that we can draft our accountability plan.
 @ulend
 
 +++
 ### Supporting strategies
 @ul[](false)
-- Vision, strategic plan, targets and milestones for ITC and for each of the departments
+- Vision, strategic plan, targets and milestones for ITC and for each of the departments.
 
 - We need to review our strategic plan. GIP/ITC need a strategy for IT infrastructure, big data/data science and open science. 
 
-- Key roles: GIP-ICT person, faculty investment on big data and knowledge hub (pre-print server)
+- Key roles: GIP-ICT person, faculty investment on big data and knowledge hub (pre-print server).
 
 Note: NWO has now signed the DORA declaration. Citations, h-indices and impact factors are not valid anymore. Impactful science is more important. Pre-prints and other scientific contributions will count in project evaluations 
 
@@ -176,13 +177,18 @@ Note: NWO has now signed the DORA declaration. Citations, h-indices and impact f
 ### Improve PhD program
 @ul
 - Analyse the characteristics of the current PhD system (recruitment, topic definition, supervision, evaluation) and create an action plan for PhD completions, with targets to achieve them.
-
+<br>
+- Better embedding PhD students and of their research projects.
 - Open science proposal with JA@UT colleagues 
 @ulend
+
+Note: OS should facilitate reusing ideas, data and code
 
 +++
 ### Data management plan 
 @ul[](false)
+- Evaluate the implementation of ITC’s data management policy. Reflect on the success rates and how to incentivise cultural change in data management.
+<br>
 - Train the trainers. change scientific paradigm (and reward system) 
 - Pre-print server/ knowledge hub  
 @ulend
@@ -218,7 +224,7 @@ we need to work on realistic problems and partner with professionals in business
 
 @ul 
 - working on wicked problems is only partially correct
-- multi/cross/inter-disciplinary are good but we also need to also work WITH community partners rather than for them. 
+- multi/cross/inter-disciplinary are good, but we also need to also work WITH community partners rather than for them. 
 - Partners validate theories and solutions --> high-impact research 
 - work on "use-inspired" and "socially embedded" research projects
 @ulend
