@@ -10,6 +10,7 @@
 @ol
 - Facilitate research work
 - Promote integration of talents 
+- Propagate scientific principles: rigorous research  
 - Speed up the transition towards open science
 @olend
 
@@ -41,7 +42,7 @@ Note: I met all GIP researchers, including AIOs and PhD students. I got a lot of
     </ul>
 </div>
 
-Note: we do too many things so much that, from the outside it looks like we are working hard to resemble other groups. or put in different words, we are fuzzyfying our scientific expertise and know-how. there is a widespread sense of lack of focus, lack of direction, lack of visibility that needs to be corrected. we need to be more clear about our uniqueness, our specialization domains and draw a GIP research landscape where our researchers and PhD candidates feel at home.
+Note: We do too many things. So much that, from the outside it looks like we are working hard to "fuzzyfy" our scientific expertise and know-how. There is a widespread sense of lack of focus, direction, and visibility that needs to be corrected. We need to be more clear about our uniqueness, our specialization domains and we need to create a GIP research landscape where our researchers, and PhD candidates, feel at home.
 
 ---
 ### GIP research: Collaborate 
@@ -77,8 +78,8 @@ Note: Collaboration is needed to reach a critical mass to have impact, be meanin
     </ul>
 </div>
 
-Note:this slide mostly contains suggestions to fix the lack of focus and collaboration. these suggestions were offered by GIP researchers. so we have a good level of introspection. we could brainstorm about key scientific domains and then decide to write together one or more SMART papers that will show our vision, put us in the spot light and serve as a road map for our departmental work. 
-The second point goes beyond the classical message of first doing research and then reusing the material for education. in fact, the idea is to organize our research activity like we organize our education. A logical and coherent group of people are being given the task of organize a course. Experience shows that despite the lack of time, all of our courses run and are reasonably good. We can also organize a group of researchers, assign a generic topic and ask them to deliver a publication by a certain date. The third point combines complaints (PhD supervisors are not always experts in the research topic of the PhD student or lack supervision/project management experience) with a solution: always assign a group of supervisors to each PhD student. That promotes collaboration and, if done well, focus. 
+Note: Suggestions to fix the lack of focus and collaboration (mostly offered by GIP researchers), so we have a good level of introspection. we could brainstorm about key scientific domains and then decide to write together one or more SMART papers that will show our vision, put us in the spot light and serve as a road map for our departmental work. 
+The second point goes beyond the classical message of first doing research and then reusing the material for education. In fact, the idea is to organize our research activity like we organize our education. A people are being given the task of organizing a course. Experience shows that despite the lack of time, all of our courses run and are reasonably good. We can also organize a group of researchers, assign a generic topic and ask them to deliver scientific output by a certain date. The third point combines complaints (PhD supervisors are not always experts in the research topic of the PhD student or lack supervision/project management experience) with a solution: always assign a group of supervisors to each PhD student. That promotes collaboration and, if done well, focus. 
 
 ---
 ### GIP research: Technology    
@@ -98,7 +99,7 @@ The second point goes beyond the classical message of first doing research and t
     </ul>
 </div>
 
-Note: We are interested in new technologies and set up two labs that could catalize some of our research work. Many GIP staff are interested in cloud computing, using and analyzing big data. Yet, we lack basic ICT infrastructure: we do not have a strategic plan or facility for large scale computing and to deploy applications and we have an 'static' GIP code repository that could play an important role in increasing our productivity and visibility. 
+Note: We are interested in new technologies and set up two labs that could catalyze some of our research work. Many GIP staff are interested in cloud computing, using and analyzing big data. Yet, we lack basic ICT infrastructure: we do not have a strategic plan or facility for large scale computing and to deploy applications and we have an 'static' GIP code repository that could play an important role in increasing our productivity and visibility. 
 
 --- 
 ### we are not alone 
