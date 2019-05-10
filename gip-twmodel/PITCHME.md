@@ -131,7 +131,7 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 +++
 ### Capacity building
 @ul[](false)
-- ITC/GIP needs to show that our work is relevant to society. We need metrics to measure our capacity development activities
+- We (ITC/GIP) need to show that our work is relevant to society. We need metrics to measure our capacity development activities
 - SDGs are used because there is an absence of vision. It is not hard to reverse engineer contribution to SDGs but why focusing on high level goals drafted by others? 
 @ulend
 
@@ -267,7 +267,8 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 ---
 ### GIP research project
 @ul
-- MSc topics are derived from these projects. We promote horizontal collaborations by, for instance, having than 1 researcher/student working on the same topic and dataset but then looking at the problem from different perspectives (5 GIP sub-domains).
+- MSc topics are derived from these projects. 
+- Promote horizontal collaborations by, for instance, having more than 1 researcher/student working on the same topic and dataset (different perspectives; 5 GIP sub-domains).
 - Workout the waterfall model and connect our work vertically and horizontally 
 @ulend
 
