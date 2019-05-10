@@ -300,8 +300,6 @@ Note: logical traps(critical thinking) ; intellectual honesty (objectivity and e
 
 ---?image=gip-twmodel/figures/climate_organization.jpeg&size=cover
 Note: FRIN. further research is needed. 
-
----?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
 <br><br>
 <br><br>
