@@ -141,7 +141,7 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 @ul[](false)
 - Accountability: metric, goals and milestones
 
-- Open educational resources: more visiblity, more impact. The value is not in the materials but in the quality of the teachers. if possible, promote open source software solutions. 
+- Open educational resources: more visibility, more impact. The value is not in the materials but in the quality of the teachers. if possible, promote open source software solutions. 
 
 - Communities of practice: Create and support. Keep in touch via social media or, even better, through our open educational platform.
 @ulend
@@ -150,9 +150,9 @@ Note: GIP is part of ITC and ITC's research was recently evaluated. In the next 
 +++
 ### Capacity building
 @ul[](false)
-- Content: we need a more up-to-date curriculum (Geodata science, Python for geocomputing, etc). The curriculum is tailored WITH the help of the receiving organization.
+- Content: we need a more up-to-date curriculum (Geodata science, Python for geocomputing, etc). This curriculum is then tailored WITH the help of the receiving organization.
 
-- More TMT-like courses and direct and long-term- engagement with organizations and/or countries so that we can draft our accountability plan.
+- More TMT-like courses and direct and long-term engagement with organizations/countries so that we can draft and pursue the accountability plan.
 @ulend
 
 +++
@@ -205,10 +205,7 @@ Note: OS should facilitate reusing ideas, data and code
 - Validated solutions ready for widespread dissemination 
 @ulend
 
-Note: draw a gaussian and indicate that 10-20 % are either totally convinced or unconvinced. This presentation is for the rest.
-there is growing body of literature that shows that there are new ways to do research. 
-The ivory tower model is not as resilient as it looks like. 
-we need to work on realistic problems and partner with professionals in business, government and NGOs 
+Note: There is growing body of literature that shows that there are new ways to do research.  The ivory tower model is not as resilient as it looks like. We need to work on realistic problems and partner with professionals in business, government and NGOs 
 
 --- 
 ### The ABC of research 
@@ -300,13 +297,9 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 Note: logical traps(critical thinking) ; intellectual honesty (objectivity and ethical). Taken from Casadevall A, Fang FC. 2016. Rigorous science: a how-to guide. mBio 7(6):e01902-16. doi:10.1128/mBio.01902-16
 
 ---?image=gip-twmodel/figures/climate_organization.jpeg&size=cover
-Note: FRIN. further research is needed. 
 @title[end]
-<br><br>
-<br><br>
-<br><br>
-<br><br>
-<br>
-@color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
 
-@size[75%](@color[white](@fa[share-alt-square]  bit.ly/XXX))
+Note: FRIN. further research is needed. No. We need action 
+
+
+
