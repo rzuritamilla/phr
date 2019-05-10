@@ -298,7 +298,7 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 
 Note: logical traps(critical thinking) ; intellectual honesty (objectivity and ethical). Taken from Casadevall A, Fang FC. 2016. Rigorous science: a how-to guide. mBio 7(6):e01902-16. doi:10.1128/mBio.01902-16
 
----?image=gip-twmodel/figures/climate_organization.jpeg
+---?image=gip-twmodel/figures/climate_organization.jpeg&size=cover
 Note: FRIN. further research is needed. 
 
 ---?image=phr/figures/That_s_all_folks.png&size=cover
