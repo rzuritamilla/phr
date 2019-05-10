@@ -214,32 +214,32 @@ we need to work on realistic problems and partner with professionals in business
 ---
 ### Bush was wrong
 
-Basic research --> Applied research --> Commercial applications 
+> Basic research --> Applied research --> Commercial applications 
 
-wicked problems is only partially correct.
-multidisciplinarity is good but we need to also work with community partners rather than for them. These partners allow for validating the proposed theories and solutions
-this is the path to high-impact research 
+@ul 
+- working on wicked problems is only partially correct
+- multi/cross/inter-disciplinary are good but we also need to also work WITH community partners rather than for them. 
+- Partners validate theories and solutions --> high-impact research 
+- work on "use-inspired" and "socially embedded" research projects
+@ulend
 
-use-inspired research 
-socially embedded 
-
-Note: Vannevar Bush; Science: The Endless Frontier (1945); 
+Note: Vannevar Bush; Science: The Endless Frontier (1945); Partners allow for validating the proposed theories and solutions
 
 
 ---
-### Short-term strategy 
+### Short-term actions 
 
-S3: Do something small soon and boost confidence
+S3 strategy: Do something small soon 
 
 @ul
 - Invite external speakers (follow up)
-- Organize a (weekly) reading group (impact on your work)
+- Organize a reading group (impact on your work)
 - Organize a small workshop (SENSE)
 - Organize regular tutorials (Hands-on sessions) 
 - Work on meaningful problems: BMGF grand challenges, NWA,... 
 @ulend
 
-Note: Follow up a day latter to encourage collaboration. how might this publication change your research? what did the author fail to do? what new directions does this paper open up? Send summary to those that could not participate. 
+Note: S3 to boost confidence. Follow up a day latter to encourage collaboration. how might this publication change your research? what did the author fail to do? what new directions does this paper open up? Send summary to those that could not participate. 
 
 ---
 ### A Team 
@@ -279,6 +279,9 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 - Middle stage:  Develop geoinformation products/service. Geovisualizations, IT infrastructure, models, etc
 - Long-term: Actionable information used in further publications. Identify new (related) problems   
 @ulend
+
+---?image=gip-twmodel/figures/climate_organization.jpeg
+Note: FRIN. further research is needed. 
 
 ---?image=phr/figures/That_s_all_folks.png&size=cover
 @title[end]
