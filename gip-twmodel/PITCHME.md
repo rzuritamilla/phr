@@ -34,9 +34,9 @@ Note: I met all GIP researchers, including AIOs and PhD students. I got a lot of
     <ul>
         <li>Too many topics! </li>
         <br>
-        <li>how are we unique? </li>
+        <li>How are we unique? </li>
         <br>
-        <li>specialization domains? </li>
+        <li>Specialization domains? </li>
         <br>
         <li>Embedding of PhD topics? </li>
     </ul>
