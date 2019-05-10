@@ -291,7 +291,7 @@ Note: I do not want superheroes. We should make use of GIP's and ITC's diversity
 @ul 
 - Redundance in experimental design 
 - Sound geoinformation methods and techniques 
-- Recognize possible sources of errors and/or limitations  
+- Recognize possible sources of errors and limitations  
 - Avoid logical traps 
 - Intellectual honesty 
 @ulend
