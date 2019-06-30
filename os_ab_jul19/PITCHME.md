@@ -13,11 +13,11 @@ Note: this little domestic animal reminds us everyday that the anthropocene is a
 ### The broiler chicken 
 
 @ul
-- Changes in breeding, diet and farming practices have at least doubled its body size and achieved a fivefold increase in body mass since 
+- Changes in breeding, diet and farming practices have at least doubled its body size and achieved a fivefold increase in body mass. 
 
 - The skeletal morphology, pathology, bone geochemistry and genetics of modern broilers are demonstrably different to those of their ancestors. 
 
-- Broiler chickens, now unable to survive without human intervention, have a combined mass exceeding that of all other birds on Earth 
+- Broiler chickens, now unable to survive without human intervention, have a combined mass exceeding that of all other birds on Earth. 
 @ulend
 
 Note: This novel morphotype symbolizes the unprecedented human reconfiguration of the Earth's biosphere. https://doi.org/10.1098/rsos.180325
@@ -77,15 +77,13 @@ Note: and there are 5 schools of thought. we can join them or learn from them an
 </div>
 <div class="right">
     <ul>
-        <li>Re-use workflows and code</li>
+        <li>Faculty wide computing platform </li>
         <br>
-        <li>‎Curate our data (input and output)</li>
-        <br>
-        <li>Reproducible and well-triangulated science</li>
-        <br>
-        <li> Share experiences and tools: Mendeley groups, @fa[github] </li>
+        <li>‎Pre-print service / Knowledge hub </li>
     </ul>
 </div>
+
+Note: knowledge hub open to others so that they can see our data (FAIR data, not necessary open data), code and toolboxes.ITC's science should not only have impact but it should also be rigurous. what a better way to show the latter than to share all the elements linked to the scientific enterprise instead of just sharing a personal copy of a PDF?
 
 ---
 ### Public school
@@ -95,13 +93,11 @@ Note: and there are 5 schools of thought. we can join them or learn from them an
 </div>
 <div class="right">
     <ul>
-        <li>Re-use workflows and code</li>
+        <li>Work with citizens on real-life problems</li>
         <br>
-        <li>‎Curate our data (input and output)</li>
+        <li>‎Crowdsource problems, data and data analysis </li>
         <br>
-        <li>Reproducible and well-triangulated science</li>
-        <br>
-        <li> Share experiences and tools: Mendeley groups, @fa[github] </li>
+        <li>Prize for communicating science</li>
     </ul>
 </div>
 
@@ -113,13 +109,11 @@ Note: and there are 5 schools of thought. we can join them or learn from them an
 </div>
 <div class="right">
     <ul>
-        <li>Re-use workflows and code</li>
+        <li>Forget tyranny of metrics</li>
         <br>
-        <li>‎Curate our data (input and output)</li>
+        <li>Top 5 contributions to science</li>
         <br>
-        <li>Reproducible and well-triangulated science</li>
-        <br>
-        <li> Share experiences and tools: Mendeley groups, @fa[github] </li>
+        <li>Reward citations to data and code</li>
     </ul>
 </div>
 
@@ -131,13 +125,11 @@ Note: and there are 5 schools of thought. we can join them or learn from them an
 </div>
 <div class="right">
     <ul>
-        <li>Re-use workflows and code</li>
+        <li>Open access publishing</li>
         <br>
-        <li>‎Curate our data (input and output)</li>
+        <li>FAIR data / Open code</li>
         <br>
-        <li>Reproducible and well-triangulated science</li>
-        <br>
-        <li> Share experiences and tools: Mendeley groups, @fa[github] </li>
+        <li>Open educational resources</li>
     </ul>
 </div>
 
@@ -149,15 +141,15 @@ Note: and there are 5 schools of thought. we can join them or learn from them an
 </div>
 <div class="right">
     <ul>
+        <li>Communities of Practice</li>
+        <br>
         <li>Re-use workflows and code</li>
         <br>
-        <li>‎Curate our data (input and output)</li>
-        <br>
         <li>Reproducible and well-triangulated science</li>
-        <br>
-        <li> Share experiences and tools: Mendeley groups, @fa[github] </li>
     </ul>
 </div>
+
+Note: share experiences and tools in the CoP.  Position ITC as a hub of geospatial data, code and relevant knowledge
 
 ---
 ### Move towards open science 
