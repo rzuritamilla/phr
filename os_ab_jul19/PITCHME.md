@@ -44,7 +44,7 @@ Note: it is clear that we, human beings, changed the chicken, and that we are ch
 ### scientific revolutions
 ![](os_ab_jul19/figures/cost_publishing.JPG)
 
-@size[65%]((DOI:10.1007/978-3-319-00026-8_2)
+@size[65%](DOI:10.1007/978-3-319-00026-8_2)
 
 Note: a scientific revolution is possible because we now have internet and have the means to publish our findings in a way that is accessible to everyone
  
@@ -52,13 +52,13 @@ Note: a scientific revolution is possible because we now have internet and have 
 ### today and tomorrow
 ![](os_ab_jul19/figures/research_today_future.JPG)
  
-@size[65%]((DOI:10.1007/978-3-319-00026-8_2)
+@size[65%](DOI:10.1007/978-3-319-00026-8_2)
 
 ---
 ### today and tomorrow
 ![](os_ab_jul19/figures/research_today_future2.JPG)
  
-@size[65%]((DOI:10.1007/978-3-319-00026-8_2)
+@size[65%](DOI:10.1007/978-3-319-00026-8_2)
 
 --- 
 ### Move towards open science 
