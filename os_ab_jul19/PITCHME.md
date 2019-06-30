@@ -6,9 +6,8 @@
 
 ---?image=os_ab_jul19/figures/broiler_density.JPG&position=center&size=cover
 @title[intro]
-@ul
-@size[200%](Antropocene)
-@ulend
+@box[text-orange span-80 fragment](@size[200%](Antropocene))
+
 Note: I would like to start this presentations with chickens. Broiler chickers. This little domestic animal should reminds us everyday that the anthropocene is a reality.
 
 ---
