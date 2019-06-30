@@ -91,7 +91,7 @@ Note: and there are 5 schools of thought. we can join them or learn from them an
 <div class="right">
     <ul>
     		<br>
-        <li>Faculty wide computing platform </li>
+        <li>ITC-wide big geodata platform </li>
         <br>
         <li>‎Pre-print service / Knowledge hub </li>
     </ul>
@@ -108,11 +108,11 @@ Note: knowledge hub open to others so that they can see our data (FAIR data, not
 <div class="right">
     <ul>
     		<br>
-        <li>Work with citizens on real-life problems</li>
+        <li>Work with problem owners on real-life problems</li>
         <br>
         <li>‎Crowdsource problems, data and data analysis </li>
         <br>
-        <li>Prize for communicating science</li>
+        <li>Faculty prize for communicating science</li>
     </ul>
 </div>
 
@@ -129,7 +129,7 @@ Note: knowledge hub open to others so that they can see our data (FAIR data, not
         <br>
         <li>Top 5 contributions to science</li>
         <br>
-        <li>Reward citations to data and code</li>
+        <li>Reward re-use of data and code</li>
     </ul>
 </div>
 
@@ -161,7 +161,7 @@ Note: knowledge hub open to others so that they can see our data (FAIR data, not
     		<br>
         <li>Communities of Practice</li>
         <br>
-        <li>Re-use workflows and code</li>
+        <li>Promote team science</li>
         <br>
         <li>Reproducible and well-triangulated science</li>
     </ul>
@@ -186,4 +186,6 @@ Note: Just think for a second. what can you do today to make your science more o
 <br><br>
 <br>
 @color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
+
+
 @size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMOpen))
