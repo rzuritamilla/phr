@@ -6,21 +6,27 @@
 
 ---?image=os_ab_jul19/figures/broiler_density.JPG&position=center&size=cover
 @title[intro]
-
-Note: this little domestic animal reminds us everyday that the anthropocene is a reality.
+@ul
+- @color[white](@size[65%](Antropocene))
+@ulend
+Note: I would like to start this presentations with chickens. Broiler chickers. This little domestic animal should reminds us everyday that the anthropocene is a reality.
 
 ---
 ### The broiler chicken 
 
 @ul
-- Changes in breeding, diet and farming practices have at least doubled its body size and achieved a fivefold increase in body mass. 
+- We have doubled its body size and achieved a fivefold increase in body mass.
 
-- The skeletal morphology, pathology, bone geochemistry and genetics of modern broilers are demonstrably different to those of their ancestors. 
+- The skeletal morphology, pathology, bone geochemistry and genetics are demonstrably different to those of their ancestors 
 
 - Broiler chickens, now unable to survive without human intervention, have a combined mass exceeding that of all other birds on Earth. 
+
+- @size[65%](DOI:10.1098/rsos.180325)
 @ulend
 
-Note: This novel morphotype symbolizes the unprecedented human reconfiguration of the Earth's biosphere. https://doi.org/10.1098/rsos.180325
+
+Note: This novel morphotype symbolizes the unprecedented human reconfiguration of the Earth's biosphere. Changes in breeding, diet and farming practices have at least - The skeletal morphology, pathology, bone geochemistry and genetics of modern broilers are demonstrably different to those of their ancestors. 
+
 
 ---
 ### No chickens, no excuses  
