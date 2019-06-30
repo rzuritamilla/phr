@@ -4,7 +4,6 @@
 ###### @color[white](R. Zurita-Milla)
 ###### @color[white](1 July 2019) 
 
-
 ---?image=os_ab_jul19/figures/broiler_density.JPG&position=center&size=cover
 @title[intro]
 
@@ -13,16 +12,26 @@ Note: this little domestic animal reminds us everyday that the anthropocene is a
 ---
 ### The broiler chicken 
 
-Human-directed changes in breeding, diet and farming practices have at least doubled its body size from the late medieval period to the present, achieved a fivefold increase in body mass since the mid-twentieth century. 
+@ul
+- Changes in breeding, diet and farming practices have at least doubled its body size and achieved a fivefold increase in body mass since 
 
-The skeletal morphology, pathology, bone geochemistry and genetics of modern broilers are demonstrably different to those of their ancestors. 
+- The skeletal morphology, pathology, bone geochemistry and genetics of modern broilers are demonstrably different to those of their ancestors. 
 
-Broiler chickens, now unable to survive without human intervention, have a combined mass exceeding that of all other birds on Earth; 
+- Broiler chickens, now unable to survive without human intervention, have a combined mass exceeding that of all other birds on Earth 
+@ulend
 
 Note: This novel morphotype symbolizes the unprecedented human reconfiguration of the Earth's biosphere. https://doi.org/10.1098/rsos.180325
 
 ---
-### No chickens 
+### No chickens, no excuses  
+@title[side by side, images]
+@div[left-50]
+![](os_ab_jul9/figures/broiler.jpg)
+@divend
+
+@div[right-50]
+![](os_ab_jul9/figures/openscience_logo.png)
+@divend
 
 Note: if we changed our planet, we can also change our way of doing, disseminating and valuing science. Let's not be chicken and dare to lead this new revolution 
 
@@ -167,5 +176,4 @@ Note: Just think for a second. what can you do today to make your science more o
 <br><br>
 <br>
 @color[white](@fa[envelope]  r.zurita-milla@utwente.nl)
-
 @size[75%](@color[white](@fa[share-alt-square]  bit.ly/2RZMOpen))
