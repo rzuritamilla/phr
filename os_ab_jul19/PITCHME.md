@@ -26,11 +26,11 @@ Note: This novel morphotype symbolizes the unprecedented human reconfiguration o
 ### No chickens, no excuses  
 @title[side by side, images]
 @div[left-50]
-![](os_ab_jul9/figures/broiler.jpg)
+![](os_ab_jul19/figures/broiler.jpg)
 @divend
 
 @div[right-50]
-![](os_ab_jul9/figures/openscience_logo.png)
+![](os_ab_jul19/figures/openscience_logo.png)
 @divend
 
 Note: if we changed our planet, we can also change our way of doing, disseminating and valuing science. Let's not be chicken and dare to lead this new revolution 
