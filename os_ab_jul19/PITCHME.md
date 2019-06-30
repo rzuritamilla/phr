@@ -32,11 +32,11 @@ Note: if we changed our planet, we can also change our way of doing, disseminati
 
 ---
 ### today and tomorrow
-![](figures/research_today_future.JPG)
+![](os_ab_jul19/figures/research_today_future.JPG)
  
 ---
 ### today and tomorrow
-![](figures/research_today_future2.JPG)
+![](os_ab_jul19/figures/research_today_future2.JPG)
  
 --- 
 ### Move towards open science 
