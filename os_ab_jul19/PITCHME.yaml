@@ -2,7 +2,7 @@ background : figures_common/ITC-UT-Vertical2.PNG
 background-position : left top
 background-size : 90px auto
 slide-number : true
-footnote : "Raul Zurita-Milla 2018"
+footnote : "Raul Zurita-Milla 2019"
 mathjax : TeX-MML-AM_HTMLorMML-full
 theme: white
-theme-override : howto/custom.css
+theme-override : custom.css
