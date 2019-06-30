@@ -6,15 +6,15 @@
 
 ---?image=os_ab_jul19/figures/broiler_density.JPG&position=center&size=cover
 @title[intro]
-@box[text-black span-100 fragment](@size[200%](Antropocene))
+@box[text-black span-100 fragment](@size[200%](Anthropocene))
 
-Note: I would like to start this presentations with chickens. Broiler chickers. This little domestic animal should reminds us everyday that the anthropocene is a reality.
+Note: I would like to start this presentations with chickens. Broiler chickens. These little domestic animals should reminds us everyday that the Anthropocene is a reality.
 
 ---
 ### The broiler chicken 
 
 @ul
-- We have doubled its body size and achieved a fivefold increase in body mass.
+- We have doubled its body size, and achieved a fivefold increase in body mass.
 
 - The skeletal morphology, pathology, bone geochemistry and genetics are demonstrably different to those of their ancestors 
 
@@ -38,20 +38,24 @@ Note: This novel morphotype symbolizes the unprecedented human reconfiguration o
 ![](os_ab_jul19/figures/openscience_logo.png)
 @divend
 
-Note: if we changed our planet, we can also change our way of doing, disseminating and valuing science. Let's not be chicken and dare to lead this new revolution 
+Note: it is clear that we, human beings, changed the chicken, and that we are changing our planet. Now it is time to change our approach to science and scholarship. We need to dare to lead this revolution. No more chickens. 
 
 --- 
 ### scientific revolutions
 ![](os_ab_jul19/figures/cost_publishing.JPG)
 
+Note: a scientific revolution is possible because we now have internet and have the means to publish our findings in a way that is accessible to everyone
+ 
 ---
 ### today and tomorrow
 ![](os_ab_jul19/figures/research_today_future.JPG)
  
+
 ---
 ### today and tomorrow
 ![](os_ab_jul19/figures/research_today_future2.JPG)
  
+
 --- 
 ### Move towards open science 
 @title[OpenScience]
@@ -82,6 +86,7 @@ Note: and there are 5 schools of thought. we can join them or learn from them an
 </div>
 <div class="right">
     <ul>
+    		<br>
         <li>Faculty wide computing platform </li>
         <br>
         <li>‎Pre-print service / Knowledge hub </li>
@@ -98,6 +103,7 @@ Note: knowledge hub open to others so that they can see our data (FAIR data, not
 </div>
 <div class="right">
     <ul>
+    		<br>
         <li>Work with citizens on real-life problems</li>
         <br>
         <li>‎Crowdsource problems, data and data analysis </li>
@@ -114,6 +120,7 @@ Note: knowledge hub open to others so that they can see our data (FAIR data, not
 </div>
 <div class="right">
     <ul>
+    		<br>
         <li>Forget tyranny of metrics</li>
         <br>
         <li>Top 5 contributions to science</li>
@@ -130,6 +137,7 @@ Note: knowledge hub open to others so that they can see our data (FAIR data, not
 </div>
 <div class="right">
     <ul>
+    		<br>
         <li>Open access publishing</li>
         <br>
         <li>FAIR data / Open code</li>
@@ -146,6 +154,7 @@ Note: knowledge hub open to others so that they can see our data (FAIR data, not
 </div>
 <div class="right">
     <ul>
+    		<br>
         <li>Communities of Practice</li>
         <br>
         <li>Re-use workflows and code</li>
