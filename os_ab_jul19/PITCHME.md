@@ -51,7 +51,7 @@ Note: we have a GIP code repository. let's use it. we have interesting datasets.
 
 Note: https://www.coverfox.com/health-insurance/articles/showdown-Individual-health-insurance-vs-group-health-insurance/
 
-+++?image=phr/figures/OpenScienceCapture.JPG&position=center&size=60% 
+---?image=os_ab_jul19/figures/OpenScienceCapture.JPG&position=center&size=60% 
 @title[OpenScience schools]
 @ul
 <br><br><br><br><br><br><br><br><br><br><br>
