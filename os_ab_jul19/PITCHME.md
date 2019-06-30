@@ -65,7 +65,7 @@ Note: a scientific revolution is possible because we now have internet and have 
 @title[OpenScience]
 ![](phr/figures/OpenScience.png)
 
-Note: we have a GIP code repository. let's use it. we have interesting datasets. lets's share them. Many of us have interest in reproducible science. Let's do it and let's start today. Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-sharing-is-caring-but-is-privacy-theft-by-david-mehler-and-kevin-weiner/
+Note: Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-sharing-is-caring-but-is-privacy-theft-by-david-mehler-and-kevin-weiner/
 
 --- 
 ### Move towards open science 
