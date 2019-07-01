@@ -4,11 +4,13 @@
 ###### @color[white](R. Zurita-Milla)
 ###### @color[white](1 July 2019) 
 
+Note: I would like to start this presentations with chickens. Broiler chickens.
+
 ---?image=os_ab_jul19/figures/broiler_density.JPG&position=center&size=cover
 @title[intro]
 @box[text-black span-100 fragment](@size[200%](Anthropocene))
 
-Note: I would like to start this presentations with chickens. Broiler chickens. These little domestic animals should reminds us everyday that the Anthropocene is a reality.
+Note: These little domestic animals should reminds us everyday that the Anthropocene is a reality.
 
 ---
 ### The broiler chicken 
@@ -38,7 +40,7 @@ Note: Changes in breeding, diet and farming practices
 ![](os_ab_jul19/figures/openscience_logo.png)
 @divend
 
-Note: Broiler chickens symbolize the unprecedented human reconfiguration of the Earth's biosphere.  We, human beings, changed the chicken, and are changing our planet. Now it is time to change our approach to science and scholarship. We need to dare to lead the revolution towards open science. 
+Note: Broiler chickens symbolize the unprecedented and human-led reconfiguration of the Earth's biosphere.  We changed the chicken, and are changing our planet. Now it is time to change our approach to science and scholarship. We need to dare to lead the revolution towards open science. No chickens, no excuse. 
 
 --- 
 ### scientific revolutions
@@ -46,14 +48,14 @@ Note: Broiler chickens symbolize the unprecedented human reconfiguration of the 
 
 @size[65%](DOI:10.1007/978-3-319-00026-8_2)
 
-Note: this revolution is needed because we live in an impasse. in the past the costs of publishing were very high. The printing press changed this and, in a way, led to establishment of the scientific journals. Now internet and a change in societal rules are asking scientists to change the way the do science. 
+Note: This revolution is needed because we live in an impasse. In the past, the costs of publishing were very high. The printing press changed this and, in a way, led to establishment of the scientific journals. Now internet and a change in societal rules are asking scientists to change the way the do science. 
  
 ---
 ### today and tomorrow
 ![](os_ab_jul19/figures/research_today_future.JPG)
  
 @size[65%](DOI:10.1007/978-3-319-00026-8_2)
-Note: Presently we only care about positive results and we only start thinking about disseminating them in our publication phase. Open science principles support the dissemination of both positive and negative results from the very beginning. Our results are not only in the form of papers, but also of blogs, social media posts, code release, online discussions, etc.
+Note: Presently we only care about positive results, and we only start thinking about disseminating them in our publication phase. Open science principles support the dissemination of both positive and negative results from the very beginning. Moreover, our results are not only disseminated in the form of papers, but also of blogs, social media posts, code release, online discussions, etc.
  
 ---
 ### today and tomorrow
@@ -67,13 +69,13 @@ Note: this change allows moving faster, and connecting with others and with othe
 @title[OpenScience]
 ![](phr/figures/OpenScience.png)
 
-Note: Thus far, I haven't defined open science because it is difficult to do so. For many people open science is an umbrella term that contains .... Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-sharing-is-caring-but-is-privacy-theft-by-david-mehler-and-kevin-weiner/
+Note: Thus far, I haven't defined open science because it is difficult to do so. For many people open science is an umbrella term that contains ....   Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-sharing-is-caring-but-is-privacy-theft-by-david-mehler-and-kevin-weiner/
 
 --- 
 ### Move towards open science 
 ![](os_ab_jul19/figures/individual_vs_family.jpg)
 
-Note: At ITC that umbrella is hold by multiple individuals and I would like to see a shift from individuals to institutions so that the full ITC family falls under the open science umbrella. Source of figure --> https://www.coverfox.com/health-insurance/articles/showdown-Individual-health-insurance-vs-group-health-insurance/
+Note: At ITC that umbrella is hold by multiple individuals and I would like to see a shift from individuals to institutions so that the full ITC family falls under the open science umbrella.    Source of figure --> https://www.coverfox.com/health-insurance/articles/showdown-Individual-health-insurance-vs-group-health-insurance/
 
 ---?image=os_ab_jul19/figures/OpenScienceCapture.JPG&position=center&size=60% 
 @title[OpenScience schools]
@@ -82,7 +84,7 @@ Note: At ITC that umbrella is hold by multiple individuals and I would like to s
 - @size[65%](DOI:10.1007/978-3-319-00026-8_2)
 @ulend
 
-Note: Open science has been studied from 5 different perspectives or schools of thought. In the next slides I review them so that we can explore what fits best our work and faculty.
+Note: Open science has been studied from 5 different perspectives or schools of thought. In the next slides, I review these schools so that we can explore what fits best our faculty.
 
 ---
 ### Infrastructure school
@@ -118,7 +120,7 @@ Note: Knowledge hub open to others so that they can see our data (FAIR data, not
     </ul>
 </div>
 
-Note: we need to make science accessible to the public and so i plea for a new faculty prize on science communication. For me citizen science also means that we need to work with problem owners on real life problems. our science should lead to technological breakthroughts but also to solutions that can be deployed in the field. This also means that we could do more to connect with society and with the global south, we could crowdsource the definition of problems, data collection and data analysis. 
+Note: We need to make science accessible to the public and so i plea for a new faculty prize on science communication. For me citizen science also means that we need to work with problem owners on real life problems. our science should lead to technological breakthroughs but also to solutions that can be deployed in the field. This also means that we could do more to connect with society and with the global south, we could crowd-source the definition of problems, data collection and data analysis. 
  
 ---
 ### Measurement school
@@ -156,7 +158,7 @@ Note: we need to forget the tyranny of the metrics. we need to start asking our 
     </ul>
 </div>
 
-Note: we need to warranty access to our findings. This demands a proactive attitude towards open access publishing. The preprint server/knowledge hub mentioned above could be a good way to go because it could help to make our data more FAIR and to open op our code. I also think that ITC should move release all of our educational resources for free in an open educational platform that would be a great contribution to our capacity development efforts and that would show that our value is not in materials in that can be found in internet but our human capital and know-how. 
+Note: we need to warranty access to our findings. This demands a proactive attitude towards open access publishing. The pre-print server/knowledge hub mentioned above could be a good way to go because it could help to make our data more FAIR and to open op our code. I also think that ITC should move release all of our educational resources for free in an open educational platform that would be a great contribution to our capacity development efforts and that would show that our value is not in materials in that can be found in internet but our human capital and know-how. 
 
 ---
 ### Pragmatic school
@@ -175,7 +177,7 @@ Note: we need to warranty access to our findings. This demands a proactive attit
     </ul>
 </div>
 
-Note: Sharing our educational material and scientific output is not enought. ITC should create and support CoP that use and expand those materials and outputs. We need to promote team science and intensively work with our partners. This will lead to a new ITC, a faculty that will be a hub of geospatial data, code and reproducible and well-triangulated scientific knowledge.
+Note: Sharing our educational material and scientific output is not enough. ITC should create and support CoP that use and expand those materials and outputs. We need to promote team science and intensively work with our partners. This will lead to a new ITC, a faculty that will be a hub of geospatial data, code and reproducible and well-triangulated scientific knowledge.
 
 ---
 ### Move towards open science 
