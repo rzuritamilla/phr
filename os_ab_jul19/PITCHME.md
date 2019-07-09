@@ -44,7 +44,7 @@ Note: Broiler chickens symbolize the unprecedented and human-led reconfiguration
 
 --- 
 ### scientific revolutions
-![](os_ab_jul19/figures/cost_publishing.JPG)
+![](os_ab_jul19/figures/cost_publishing_v45.jpg)
 
 @size[65%](DOI:10.1007/978-3-319-00026-8_2)
 
