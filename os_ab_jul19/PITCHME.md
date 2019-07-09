@@ -59,7 +59,7 @@ Note: Presently we only care about positive results, and we only start thinking 
  
 ---
 ### today and tomorrow
-![](os_ab_jul19/figures/research_today_future2_v50.jpg)
+![](os_ab_jul19/figures/research_today_future2_v40.jpg)
  
 @size[65%](DOI:10.1007/978-3-319-00026-8_2)
 Note: this change allows moving faster, and connecting with others and with other research lines so that we can solve more complicated issues.
