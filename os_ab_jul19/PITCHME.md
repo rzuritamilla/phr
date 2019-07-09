@@ -67,7 +67,7 @@ Note: this change allows moving faster, and connecting with others and with othe
 --- 
 ### Move towards open science 
 @title[OpenScience]
-![](os-ab_jul19/figures/OpenScience_v45.jpg)
+![](os_ab_jul19/figures/OpenScience_v45.jpg)
 
 Note: Thus far, I haven't defined open science because it is difficult to do so. For many people open science is an umbrella term that contains ....   Source of figure --> https://blogs.plos.org/neuro/2018/01/31/open-science-sharing-is-caring-but-is-privacy-theft-by-david-mehler-and-kevin-weiner/
 
