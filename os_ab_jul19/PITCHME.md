@@ -33,7 +33,7 @@ Note: Changes in breeding, diet and farming practices
 ### No chickens, no excuses  
 @title[side by side, images]
 @div[left-50]
-![](os_ab_jul19/figures/broiler_v50.jpg)
+![](os_ab_jul19/figures/broiler_v80.jpg)
 @divend
 
 @div[right-50]
