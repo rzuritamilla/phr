@@ -33,7 +33,7 @@ Note: Changes in breeding, diet and farming practices
 ### No chickens, no excuses  
 @title[side by side, images]
 @div[left-50]
-![](os_ab_jul19/figures/broiler.jpg)
+![](os_ab_jul19/figures/broiler_v50.jpg)
 @divend
 
 @div[right-50]
@@ -44,7 +44,7 @@ Note: Broiler chickens symbolize the unprecedented and human-led reconfiguration
 
 --- 
 ### scientific revolutions
-![](os_ab_jul19/figures/cost_publishing_v45.jpg)
+![](os_ab_jul19/figures/cost_publishing_v35.jpg)
 
 @size[65%](DOI:10.1007/978-3-319-00026-8_2)
 
@@ -56,10 +56,10 @@ Note: This revolution is needed because we live in an impasse. In the past, the 
  
 @size[65%](DOI:10.1007/978-3-319-00026-8_2)
 Note: Presently we only care about positive results, and we only start thinking about disseminating them in our publication phase. Open science principles support the dissemination of both positive and negative results from the very beginning. Moreover, our results are not only disseminated in the form of papers, but also of blogs, social media posts, code release, online discussions, etc.
- 
+
 ---
 ### today and tomorrow
-![](os_ab_jul19/figures/research_today_future2_v35.jpg)
+![](os_ab_jul19/figures/research_today_future2_v30.jpg)
  
 @size[65%](DOI:10.1007/978-3-319-00026-8_2)
 Note: this change allows moving faster, and connecting with others and with other research lines so that we can solve more complicated issues.
